@@ -1,0 +1,62 @@
+[
+  {
+    "ru": "январь",
+    "en": "january",
+    "type": "noun"
+  },
+  {
+    "ru": "февраль",
+    "en": "february",
+    "type": "noun"
+  },
+  {
+    "ru": "март",
+    "en": "march",
+    "type": "noun"
+  },
+  {
+    "ru": "апрель",
+    "en": "april",
+    "type": "noun"
+  },
+  {
+    "ru": "май",
+    "en": "may",
+    "type": "noun"
+  },
+  {
+    "ru": "июнь",
+    "en": "june",
+    "type": "noun"
+  },
+  {
+    "ru": "июль",
+    "en": "july",
+    "type": "noun"
+  },
+  {
+    "ru": "август",
+    "en": "august",
+    "type": "noun"
+  },
+  {
+    "ru": "сентябрь",
+    "en": "september",
+    "type": "noun"
+  },
+  {
+    "ru": "октябрь",
+    "en": "october",
+    "type": "noun"
+  },
+  {
+    "ru": "ноябрь",
+    "en": "november",
+    "type": "noun"
+  },
+  {
+    "ru": "декабрь",
+    "en": "december",
+    "type": "noun"
+  }
+]

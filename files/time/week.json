@@ -1,0 +1,37 @@
+[
+  {
+    "ru": "понедельник",
+    "en": "monday",
+    "type": "noun"
+  },
+  {
+    "ru": "вторник",
+    "en": "tuesday",
+    "type": "noun"
+  },
+  {
+    "ru": "среда",
+    "en": "wednesday",
+    "type": "noun"
+  },
+  {
+    "ru": "четверг",
+    "en": "thursday",
+    "type": "noun"
+  },
+  {
+    "ru": "пятница",
+    "en": "friday",
+    "type": "noun"
+  },
+  {
+    "ru": "суббота",
+    "en": "saturday",
+    "type": "noun"
+  },
+  {
+    "ru": "воскресенье",
+    "en": "sunday",
+    "type": "noun"
+  }
+]

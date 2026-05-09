@@ -1,0 +1,62 @@
+[
+  {
+    "ru": "хорошо",
+    "en": "good",
+    "type": "adverb"
+  },
+  {
+    "ru": "плохо",
+    "en": "badly",
+    "type": "adverb"
+  },
+  {
+    "ru": "рано",
+    "en": "early",
+    "type": "adverb"
+  },
+  {
+    "ru": "поздо",
+    "en": "late",
+    "type": "adverb"
+  },
+  {
+    "ru": "много",
+    "en": "many",
+    "type": "adverb"
+  },
+  {
+    "ru": "мало",
+    "en": "few",
+    "type": "adverb"
+  },
+  {
+    "ru": "иногда",
+    "en": "sometimes",
+    "type": "adverb"
+  },
+  {
+    "ru": "всегда",
+    "en": "always",
+    "type": "adverb"
+  },
+  {
+    "ru": "редко",
+    "en": "rarely",
+    "type": "adverb"
+  },
+  {
+    "ru": "обычно",
+    "en": "usually",
+    "type": "adverb"
+  },
+  {
+    "ru": "часто",
+    "en": "often,frequently",
+    "type": "adverb"
+  },
+  {
+    "ru": "никогда",
+    "en": "never",
+    "type": "adverb"
+  }
+]

@@ -1,0 +1,7 @@
+# http://www.rusogratis.com/gramatica-rusa-pronombres-posesivos-casos.php
+моим,моей,моим,моими(pl)
+твоим,твоей,твоим,твоими(pl)
+его,его(pl),её,её(pl)
+нашим,нашей,нашим,нашими(pl)
+вашим,вашей,вашим,вашими(pl)
+их,их(pl)

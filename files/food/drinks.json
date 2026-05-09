@@ -1,0 +1,102 @@
+[
+  {
+    "ru": "вода",
+    "en": "water",
+    "type": "noun"
+  },
+  {
+    "ru": "чай",
+    "en": "tea",
+    "type": "noun"
+  },
+  {
+    "ru": "сок",
+    "en": "juice",
+    "type": "noun"
+  },
+  {
+    "ru": "кофе",
+    "en": "coffe",
+    "type": "noun"
+  },
+  {
+    "ru": "какао",
+    "en": "cocoa",
+    "type": "noun"
+  },
+  {
+    "ru": "кола",
+    "en": "cola",
+    "type": "noun"
+  },
+  {
+    "ru": "молоко",
+    "en": "milk",
+    "type": "noun"
+  },
+  {
+    "ru": "лимонад",
+    "en": "lemonade",
+    "type": "noun"
+  },
+  {
+    "ru": "ликёр",
+    "en": "liquor",
+    "type": "noun"
+  },
+  {
+    "ru": "вино",
+    "en": "wine",
+    "type": "noun"
+  },
+  {
+    "ru": "пиво",
+    "en": "beer",
+    "type": "noun"
+  },
+  {
+    "ru": "водка",
+    "en": "vodka",
+    "type": "noun"
+  },
+  {
+    "ru": "напиток",
+    "en": "drink",
+    "type": "noun"
+  },
+  {
+    "ru": "шампанское",
+    "en": "champagne",
+    "type": "noun"
+  },
+  {
+    "ru": "текила",
+    "en": "tequila",
+    "type": "noun"
+  },
+  {
+    "ru": "ром",
+    "en": "rum",
+    "type": "noun"
+  },
+  {
+    "ru": "виски",
+    "en": "whisky",
+    "type": "noun"
+  },
+  {
+    "ru": "коньяк",
+    "en": "cognac",
+    "type": "noun"
+  },
+  {
+    "ru": "мартини",
+    "en": "martini",
+    "type": "noun"
+  },
+  {
+    "ru": "бренди",
+    "en": "brandy",
+    "type": "noun"
+  }
+]

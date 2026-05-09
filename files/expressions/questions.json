@@ -1,0 +1,87 @@
+[
+  {
+    "ru": "что?",
+    "en": "what?",
+    "type": "pronoun"
+  },
+  {
+    "ru": "как?",
+    "en": "how?",
+    "type": "pronoun"
+  },
+  {
+    "ru": "кто?",
+    "en": "who?",
+    "type": "pronoun"
+  },
+  {
+    "ru": "где?",
+    "en": "where?",
+    "type": "pronoun"
+  },
+  {
+    "ru": "куда?",
+    "en": "(to) where?",
+    "type": "pronoun"
+  },
+  {
+    "ru": "откуда?",
+    "en": "(from) where?",
+    "type": "pronoun"
+  },
+  {
+    "ru": "сколько?",
+    "en": "how many?",
+    "type": "pronoun"
+  },
+  {
+    "ru": "почему?",
+    "en": "why?",
+    "type": "pronoun"
+  },
+  {
+    "ru": "потому что",
+    "en": "because",
+    "type": "pronoun"
+  },
+  {
+    "ru": "какой?",
+    "en": "which? (m)",
+    "type": "pronoun"
+  },
+  {
+    "ru": "какая?",
+    "en": "which? (f)",
+    "type": "pronoun"
+  },
+  {
+    "ru": "какое?",
+    "en": "which? (n)",
+    "type": "pronoun"
+  },
+  {
+    "ru": "чей?",
+    "en": "whose? (m)",
+    "type": "pronoun"
+  },
+  {
+    "ru": "чья?",
+    "en": "whose? (f)",
+    "type": "pronoun"
+  },
+  {
+    "ru": "чьё?",
+    "en": "whose? (n)",
+    "type": "pronoun"
+  },
+  {
+    "ru": "чьи?",
+    "en": "whose? (pl)",
+    "type": "pronoun"
+  },
+  {
+    "ru": "когда?",
+    "en": "when?",
+    "type": "pronoun"
+  }
+]

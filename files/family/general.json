@@ -1,0 +1,117 @@
+[
+  {
+    "ru": "отец",
+    "en": "father",
+    "type": "noun"
+  },
+  {
+    "ru": "мать",
+    "en": "mother",
+    "type": "noun"
+  },
+  {
+    "ru": "папа",
+    "en": "dad",
+    "type": "noun"
+  },
+  {
+    "ru": "мама",
+    "en": "mum",
+    "type": "noun"
+  },
+  {
+    "ru": "брат",
+    "en": "brother",
+    "type": "noun"
+  },
+  {
+    "ru": "сестра",
+    "en": "sister",
+    "type": "noun"
+  },
+  {
+    "ru": "сын",
+    "en": "son",
+    "type": "noun"
+  },
+  {
+    "ru": "дочь",
+    "en": "daughter",
+    "type": "noun"
+  },
+  {
+    "ru": "жена",
+    "en": "wife",
+    "type": "noun"
+  },
+  {
+    "ru": "муж",
+    "en": "husband",
+    "type": "noun"
+  },
+  {
+    "ru": "родители",
+    "en": "parents",
+    "type": "noun"
+  },
+  {
+    "ru": "дети",
+    "en": "children",
+    "type": "noun"
+  },
+  {
+    "ru": "ребенок",
+    "en": "child",
+    "type": "noun"
+  },
+  {
+    "ru": "бабушка",
+    "en": "grandmother",
+    "type": "noun"
+  },
+  {
+    "ru": "дедушка",
+    "en": "grandfather",
+    "type": "noun"
+  },
+  {
+    "ru": "внучка",
+    "en": "granddaughter",
+    "type": "noun"
+  },
+  {
+    "ru": "внук",
+    "en": "grandson",
+    "type": "noun"
+  },
+  {
+    "ru": "дядя",
+    "en": "uncle",
+    "type": "noun"
+  },
+  {
+    "ru": "тётя",
+    "en": "auntie",
+    "type": "noun"
+  },
+  {
+    "ru": "племянник",
+    "en": "nephew",
+    "type": "noun"
+  },
+  {
+    "ru": "племянница",
+    "en": "niece",
+    "type": "noun"
+  },
+  {
+    "ru": "двоюродный брат",
+    "en": "cousin male",
+    "type": "noun"
+  },
+  {
+    "ru": "двоюродная сестра",
+    "en": "cousin female",
+    "type": "noun"
+  }
+]

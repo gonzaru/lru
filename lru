@@ -1,0 +1,6 @@
+#!/bin/sh
+
+set -eu
+
+# wrapper for lru.py
+PYTHONDONTWRITEBYTECODE=1 exec python3 "$(dirname "$0")/lru.py" "$@"

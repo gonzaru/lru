@@ -1,0 +1,502 @@
+[
+  {
+    "ru": "быть",
+    "en": "to be",
+    "type": "verb"
+  },
+  {
+    "ru": "сказать",
+    "en": "to say,to speak",
+    "type": "verb"
+  },
+  {
+    "ru": "мочь",
+    "en": "to be able",
+    "type": "verb"
+  },
+  {
+    "ru": "говорить",
+    "en": "to say,tell,speak",
+    "type": "verb"
+  },
+  {
+    "ru": "знать",
+    "en": "to know,be aware",
+    "type": "verb"
+  },
+  {
+    "ru": "стать",
+    "en": "to become,begin,come",
+    "type": "verb"
+  },
+  {
+    "ru": "есть",
+    "en": "to eat,to be",
+    "type": "verb"
+  },
+  {
+    "ru": "хотеть",
+    "en": "to want,like",
+    "type": "verb"
+  },
+  {
+    "ru": "видеть",
+    "en": "to see",
+    "type": "verb"
+  },
+  {
+    "ru": "идти",
+    "en": "to go,come",
+    "type": "verb"
+  },
+  {
+    "ru": "стоять",
+    "en": "to stand,be,stand up",
+    "type": "verb"
+  },
+  {
+    "ru": "думать",
+    "en": "to think",
+    "type": "believe"
+  },
+  {
+    "ru": "спросить",
+    "en": "to ask",
+    "type": "verb"
+  },
+  {
+    "ru": "жить",
+    "en": "to live",
+    "type": "verb"
+  },
+  {
+    "ru": "смотреть",
+    "en": "to look,watch,see",
+    "type": "verb"
+  },
+  {
+    "ru": "сидеть",
+    "en": "to sit",
+    "type": "verb"
+  },
+  {
+    "ru": "понять",
+    "en": "to understand",
+    "type": "realize"
+  },
+  {
+    "ru": "иметь",
+    "en": "to have,own",
+    "type": "verb"
+  },
+  {
+    "ru": "делать",
+    "en": "to do,make",
+    "type": "verb"
+  },
+  {
+    "ru": "взять",
+    "en": "to take",
+    "type": "verb"
+  },
+  {
+    "ru": "сделать",
+    "en": "to do,make,finish",
+    "type": "verb"
+  },
+  {
+    "ru": "понимать",
+    "en": "to understand",
+    "type": "verb"
+  },
+  {
+    "ru": "казаться",
+    "en": "to seem,appear",
+    "type": "verb"
+  },
+  {
+    "ru": "давать",
+    "en": "to give",
+    "type": "let,allow"
+  },
+  {
+    "ru": "пойти",
+    "en": "to go",
+    "type": "verb"
+  },
+  {
+    "ru": "увидеть",
+    "en": "to see",
+    "type": "verb"
+  },
+  {
+    "ru": "остаться",
+    "en": "to remain,stay",
+    "type": "verb"
+  },
+  {
+    "ru": "выйти",
+    "en": "to go out,come out,appear",
+    "type": "verb"
+  },
+  {
+    "ru": "дать",
+    "en": "to give",
+    "type": "verb"
+  },
+  {
+    "ru": "работать",
+    "en": "to work",
+    "type": "verb"
+  },
+  {
+    "ru": "любить",
+    "en": "to love",
+    "type": "verb"
+  },
+  {
+    "ru": "оказаться",
+    "en": "find oneself,turn out",
+    "type": "verb"
+  },
+  {
+    "ru": "ответить",
+    "en": "to answer,reply",
+    "type": "verb"
+  },
+  {
+    "ru": "подумать",
+    "en": "to think",
+    "type": "verb"
+  },
+  {
+    "ru": "значить",
+    "en": "to mean,signify",
+    "type": "verb"
+  },
+  {
+    "ru": "посмотреть",
+    "en": "to take a look,watch,inspect",
+    "type": "verb"
+  },
+  {
+    "ru": "ждать",
+    "en": "to wait",
+    "type": "verb"
+  },
+  {
+    "ru": "лежать",
+    "en": "to lie,be situated",
+    "type": "verb"
+  },
+  {
+    "ru": "найти",
+    "en": "to find,discover,consider",
+    "type": "verb"
+  },
+  {
+    "ru": "писать",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "ru": "решить",
+    "en": "to decide,solve",
+    "type": "verb"
+  },
+  {
+    "ru": "вернуться",
+    "en": "to return",
+    "type": "verb"
+  },
+  {
+    "ru": "считать",
+    "en": "to count,consider",
+    "type": "verb"
+  },
+  {
+    "ru": "помнить",
+    "en": "to remember",
+    "type": "verb"
+  },
+  {
+    "ru": "получить",
+    "en": "to receive,get,obtain",
+    "type": "verb"
+  },
+  {
+    "ru": "ходить",
+    "en": "to go,walk",
+    "type": "verb"
+  },
+  {
+    "ru": "бывать",
+    "en": "be,visit,happen",
+    "type": "verb"
+  },
+  {
+    "ru": "прийти",
+    "en": "to come,arrive",
+    "type": "verb"
+  },
+  {
+    "ru": "узнать",
+    "en": "to know,learn,recognize",
+    "type": "verb"
+  },
+  {
+    "ru": "заметить",
+    "en": "to notice,observe",
+    "type": "verb"
+  },
+  {
+    "ru": "уйти",
+    "en": "to leave,go away",
+    "type": "verb"
+  },
+  {
+    "ru": "слышать",
+    "en": "to hear",
+    "type": "verb"
+  },
+  {
+    "ru": "слушать",
+    "en": "to listen,hear",
+    "type": "verb"
+  },
+  {
+    "ru": "бояться",
+    "en": "to be afraid,fear",
+    "type": "verb"
+  },
+  {
+    "ru": "глядеть",
+    "en": "to look,gaze",
+    "type": "verb"
+  },
+  {
+    "ru": "сесть",
+    "en": "to sit",
+    "type": "verb"
+  },
+  {
+    "ru": "читать",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "ru": "оставаться",
+    "en": "to remain,stay",
+    "type": "verb"
+  },
+  {
+    "ru": "брать",
+    "en": "to take",
+    "type": "hire"
+  },
+  {
+    "ru": "написать",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "ru": "начинать",
+    "en": "to begin",
+    "type": "verb"
+  },
+  {
+    "ru": "чувствовать",
+    "en": "to feel",
+    "type": "verb"
+  },
+  {
+    "ru": "вести",
+    "en": "to lead",
+    "type": "verb"
+  },
+  {
+    "ru": "успеть",
+    "en": "to be in time,be successful",
+    "type": "verb"
+  },
+  {
+    "ru": "продолжать",
+    "en": "to continue",
+    "type": "verb"
+  },
+  {
+    "ru": "забыть",
+    "en": "to forget",
+    "type": "verb"
+  },
+  {
+    "ru": "пройти",
+    "en": "to pass,go by,be over",
+    "type": "verb"
+  },
+  {
+    "ru": "появиться",
+    "en": "to appear,show up",
+    "type": "verb"
+  },
+  {
+    "ru": "выходить",
+    "en": "to go out",
+    "type": "nurse"
+  },
+  {
+    "ru": "просить",
+    "en": "to ask",
+    "type": "verb"
+  },
+  {
+    "ru": "пытаться",
+    "en": "to try",
+    "type": "verb"
+  },
+  {
+    "ru": "показать",
+    "en": "to show,display",
+    "type": "verb"
+  },
+  {
+    "ru": "вспомнить",
+    "en": "to remember,recall",
+    "type": "verb"
+  },
+  {
+    "ru": "держать",
+    "en": "to hold,keep",
+    "type": "verb"
+  },
+  {
+    "ru": "называть",
+    "en": "to call,name",
+    "type": "verb"
+  },
+  {
+    "ru": "уходить",
+    "en": "to leave,go away",
+    "type": "verb"
+  },
+  {
+    "ru": "подойти",
+    "en": "to approach,come up",
+    "type": "verb"
+  },
+  {
+    "ru": "поднять",
+    "en": "to lift,raise",
+    "type": "verb"
+  },
+  {
+    "ru": "спрашивать",
+    "en": "to ask,inquire",
+    "type": "verb"
+  },
+  {
+    "ru": "бросить",
+    "en": "to throw",
+    "type": "verb"
+  },
+  {
+    "ru": "послать",
+    "en": "to send,dispatch",
+    "type": "verb"
+  },
+  {
+    "ru": "находиться",
+    "en": "to be found,turn up",
+    "type": "verb"
+  },
+  {
+    "ru": "поставить",
+    "en": "to put,place,set",
+    "type": "verb"
+  },
+  {
+    "ru": "встать",
+    "en": "to get up,rise,stand up",
+    "type": "verb"
+  },
+  {
+    "ru": "играть",
+    "en": "to play",
+    "type": "verb"
+  },
+  {
+    "ru": "следовать",
+    "en": "to follow,come next",
+    "type": "verb"
+  },
+  {
+    "ru": "рассказать",
+    "en": "to tell,narrate",
+    "type": "verb"
+  },
+  {
+    "ru": "спать",
+    "en": "to sleep",
+    "type": "verb"
+  },
+  {
+    "ru": "оставить",
+    "en": "to leave,abandon",
+    "type": "verb"
+  },
+  {
+    "ru": "войти",
+    "en": "to enter,come in",
+    "type": "verb"
+  },
+  {
+    "ru": "молчать",
+    "en": "to keep silence",
+    "type": "verb"
+  },
+  {
+    "ru": "рассказывать",
+    "en": "to tell,narrate",
+    "type": "verb"
+  },
+  {
+    "ru": "отвечать",
+    "en": "to answer,reply",
+    "type": "verb"
+  },
+  {
+    "ru": "становиться",
+    "en": "to stand",
+    "type": "to become"
+  },
+  {
+    "ru": "остановиться",
+    "en": "to stop",
+    "type": "verb"
+  },
+  {
+    "ru": "искать",
+    "en": "to search",
+    "type": "verb"
+  },
+  {
+    "ru": "начать",
+    "en": "to begin",
+    "type": "verb"
+  },
+  {
+    "ru": "верить",
+    "en": "to believe",
+    "type": "verb"
+  },
+  {
+    "ru": "являться",
+    "en": "to appear",
+    "type": "verb"
+  },
+  {
+    "ru": "смочь",
+    "en": "to be able",
+    "type": "verb"
+  }
+]

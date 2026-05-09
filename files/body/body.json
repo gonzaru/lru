@@ -1,0 +1,152 @@
+[
+  {
+    "ru": "голова",
+    "en": "head",
+    "type": "noun"
+  },
+  {
+    "ru": "глаз",
+    "en": "eye",
+    "type": "noun"
+  },
+  {
+    "ru": "глаза",
+    "en": "eyes",
+    "type": "noun"
+  },
+  {
+    "ru": "плечо",
+    "en": "shoulder",
+    "type": "noun"
+  },
+  {
+    "ru": "плечи",
+    "en": "shoulders",
+    "type": "noun"
+  },
+  {
+    "ru": "колено",
+    "en": "knee",
+    "type": "noun"
+  },
+  {
+    "ru": "колени",
+    "en": "knees",
+    "type": "noun"
+  },
+  {
+    "ru": "палец ноги",
+    "en": "toe",
+    "type": "noun"
+  },
+  {
+    "ru": "пальцы",
+    "en": "fingers,toes",
+    "type": "noun"
+  },
+  {
+    "ru": "ноги",
+    "en": "legs",
+    "type": "noun"
+  },
+  {
+    "ru": "руки",
+    "en": "arms",
+    "type": "noun"
+  },
+  {
+    "ru": "палец руки",
+    "en": "finger",
+    "type": "noun"
+  },
+  {
+    "ru": "ступня",
+    "en": "foot",
+    "type": "noun"
+  },
+  {
+    "ru": "шея",
+    "en": "neck",
+    "type": "noun"
+  },
+  {
+    "ru": "рука",
+    "en": "hand,arm",
+    "type": "noun"
+  },
+  {
+    "ru": "спина",
+    "en": "back",
+    "type": "noun"
+  },
+  {
+    "ru": "грудь",
+    "en": "chest",
+    "type": "noun"
+  },
+  {
+    "ru": "локоть",
+    "en": "elbow",
+    "type": "noun"
+  },
+  {
+    "ru": "кожа",
+    "en": "skin",
+    "type": "noun"
+  },
+  {
+    "ru": "горло",
+    "en": "throat",
+    "type": "noun"
+  },
+  {
+    "ru": "язык",
+    "en": "tongue",
+    "type": "noun"
+  },
+  {
+    "ru": "живот",
+    "en": "belly",
+    "type": "noun"
+  },
+  {
+    "ru": "бедро",
+    "en": "thigh",
+    "type": "noun"
+  },
+  {
+    "ru": "зуб",
+    "en": "tooth",
+    "type": "noun"
+  },
+  {
+    "ru": "лоб",
+    "en": "forehead",
+    "type": "noun"
+  },
+  {
+    "ru": "нога",
+    "en": "leg",
+    "type": "noun"
+  },
+  {
+    "ru": "нос",
+    "en": "nose",
+    "type": "noun"
+  },
+  {
+    "ru": "рот",
+    "en": "mouth",
+    "type": "noun"
+  },
+  {
+    "ru": "ухо",
+    "en": "ear",
+    "type": "noun"
+  },
+  {
+    "ru": "щека",
+    "en": "cheek",
+    "type": "noun"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "ru": "здравствуйте",
+    "en": "hello",
+    "type": "phrase"
+  },
+  {
+    "ru": "привет",
+    "en": "hi",
+    "type": "phrase"
+  },
+  {
+    "ru": "Как дела?",
+    "en": "How are you? (informal)",
+    "type": "phrase"
+  },
+  {
+    "ru": "Как ваши дела?",
+    "en": "How are (you? formal)",
+    "type": "phrase"
+  },
+  {
+    "ru": "доброе утро",
+    "en": "good morning",
+    "type": "phrase"
+  },
+  {
+    "ru": "добрый день",
+    "en": "good afternoon",
+    "type": "phrase"
+  },
+  {
+    "ru": "добрый вечер",
+    "en": "good evening",
+    "type": "phrase"
+  },
+  {
+    "ru": "спокойной ночи",
+    "en": "good night",
+    "type": "phrase"
+  },
+  {
+    "ru": "доброй ночи",
+    "en": "good night",
+    "type": "phrase"
+  },
+  {
+    "ru": "до скорой встречи",
+    "en": "see you later",
+    "type": "phrase"
+  },
+  {
+    "ru": "до вечера",
+    "en": "until evening",
+    "type": "phrase"
+  },
+  {
+    "ru": "до завтра",
+    "en": "until tomorrow",
+    "type": "phrase"
+  },
+  {
+    "ru": "неплохо",
+    "en": "not so bad",
+    "type": "phrase"
+  },
+  {
+    "ru": "плохо",
+    "en": "bad",
+    "type": "phrase"
+  },
+  {
+    "ru": "Как тебя зовут?",
+    "en": "What's your name? (informal)",
+    "type": "phrase"
+  },
+  {
+    "ru": "Как Вас зовут?",
+    "en": "What's your name? (formal)",
+    "type": "phrase"
+  },
+  {
+    "ru": "Меня зовут ...",
+    "en": "My name is ...",
+    "type": "phrase"
+  },
+  {
+    "ru": "до свидания",
+    "en": "good bye",
+    "type": "phrase"
+  },
+  {
+    "ru": "пока",
+    "en": "bye",
+    "type": "phrase"
+  },
+  {
+    "ru": "увидимся",
+    "en": "see you",
+    "type": "phrase"
+  },
+  {
+    "ru": "приятно познакомится",
+    "en": "nice to meet you",
+    "type": "phrase"
+  },
+  {
+    "ru": "очень приятно",
+    "en": "pleased to meet you",
+    "type": "phrase"
+  },
+  {
+    "ru": "спасибо",
+    "en": "thanks",
+    "type": "phrase"
+  },
+  {
+    "ru": "большое спасибо",
+    "en": "thank you very much",
+    "type": "phrase"
+  },
+  {
+    "ru": "пожалуйста",
+    "en": "you're welcome",
+    "type": "phrase"
+  },
+  {
+    "ru": "Добро пожаловать",
+    "en": "welcome",
+    "type": "phrase"
+  },
+  {
+    "ru": "извините",
+    "en": "sorry",
+    "type": "phrase"
+  },
+  {
+    "ru": "простите",
+    "en": "excuse me",
+    "type": "phrase"
+  },
+  {
+    "ru": "нормально",
+    "en": "normal",
+    "type": "phrase"
+  },
+  {
+    "ru": "хорошо",
+    "en": "good",
+    "type": "phrase"
+  },
+  {
+    "ru": "не очень хорошо",
+    "en": "not very good",
+    "type": "phrase"
+  },
+  {
+    "ru": "хорошего дня",
+    "en": "have a nice day",
+    "type": "phrase"
+  },
+  {
+    "ru": "удачи",
+    "en": "good luck",
+    "type": "phrase"
+  },
+  {
+    "ru": "за здоровье",
+    "en": "cheers",
+    "type": "phrase"
+  }
+]

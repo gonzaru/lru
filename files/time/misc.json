@@ -1,0 +1,72 @@
+[
+  {
+    "ru": "сегодня",
+    "en": "today",
+    "type": "noun"
+  },
+  {
+    "ru": "завтра",
+    "en": "tomorrow",
+    "type": "noun"
+  },
+  {
+    "ru": "вчера",
+    "en": "yesterday",
+    "type": "noun"
+  },
+  {
+    "ru": "день",
+    "en": "day",
+    "type": "noun"
+  },
+  {
+    "ru": "неделя",
+    "en": "week",
+    "type": "noun"
+  },
+  {
+    "ru": "месяц",
+    "en": "month",
+    "type": "noun"
+  },
+  {
+    "ru": "месяцы",
+    "en": "months",
+    "type": "noun"
+  },
+  {
+    "ru": "год",
+    "en": "year",
+    "type": "noun"
+  },
+  {
+    "ru": "утром",
+    "en": "in the morning",
+    "type": "noun"
+  },
+  {
+    "ru": "днём",
+    "en": "in the afternoon",
+    "type": "noun"
+  },
+  {
+    "ru": "вецером",
+    "en": "in the evening",
+    "type": "noun"
+  },
+  {
+    "ru": "ночью",
+    "en": "at night",
+    "type": "noun"
+  },
+  {
+    "ru": "сейчас",
+    "en": "now",
+    "type": "noun"
+  },
+  {
+    "ru": "потом",
+    "en": "later",
+    "type": "noun"
+  }
+]

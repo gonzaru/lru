@@ -1,0 +1,16 @@
+#!/bin/sh
+
+set -eu
+
+basedir="$(cd "$(dirname "$0")" && pwd)"
+
+main() {
+  menu=$("${basedir}/lru" list | tail -n +4)
+  items=$(echo "$menu" | wc -l)
+  prog=$(echo "$menu" | dmenu -i -l "$items" -p "LRU:" | cut -d ' ' -f1)
+  if [ -n "$prog" ]; then
+    exec "${basedir}/lru-cli" play "$prog"
+  fi
+}
+
+main "$@"

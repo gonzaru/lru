@@ -1,0 +1,97 @@
+[
+  {
+    "ru": "курица",
+    "en": "chicken",
+    "type": "noun"
+  },
+  {
+    "ru": "индейка",
+    "en": "turkey",
+    "type": "noun"
+  },
+  {
+    "ru": "свинина",
+    "en": "pork",
+    "type": "noun"
+  },
+  {
+    "ru": "ягненок",
+    "en": "lamb",
+    "type": "noun"
+  },
+  {
+    "ru": "говядина",
+    "en": "beef",
+    "type": "noun"
+  },
+  {
+    "ru": "ветчина",
+    "en": "ham",
+    "type": "noun"
+  },
+  {
+    "ru": "бекон",
+    "en": "bacon",
+    "type": "noun"
+  },
+  {
+    "ru": "Бургер",
+    "en": "burger",
+    "type": "noun"
+  },
+  {
+    "ru": "сосиска",
+    "en": "sausage",
+    "type": "noun"
+  },
+  {
+    "ru": "яйцo",
+    "en": "egg",
+    "type": "noun"
+  },
+  {
+    "ru": "яйца",
+    "en": "eggs",
+    "type": "noun"
+  },
+  {
+    "ru": "морепродукты",
+    "en": "seafood",
+    "type": "noun"
+  },
+  {
+    "ru": "краб",
+    "en": "crab",
+    "type": "noun"
+  },
+  {
+    "ru": "омар",
+    "en": "lobster",
+    "type": "noun"
+  },
+  {
+    "ru": "креветка",
+    "en": "shrimp",
+    "type": "noun"
+  },
+  {
+    "ru": "суши",
+    "en": "sushi",
+    "type": "noun"
+  },
+  {
+    "ru": "лосось",
+    "en": "salmon",
+    "type": "noun"
+  },
+  {
+    "ru": "тунец",
+    "en": "tuna",
+    "type": "noun"
+  },
+  {
+    "ru": "рыба",
+    "en": "fish",
+    "type": "noun"
+  }
+]

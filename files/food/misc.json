@@ -1,0 +1,112 @@
+[
+  {
+    "ru": "суп",
+    "en": "soup",
+    "type": "noun"
+  },
+  {
+    "ru": "хлеб",
+    "en": "bread",
+    "type": "noun"
+  },
+  {
+    "ru": "рис",
+    "en": "rice",
+    "type": "noun"
+  },
+  {
+    "ru": "овсянка",
+    "en": "oatmeal",
+    "type": "noun"
+  },
+  {
+    "ru": "блин",
+    "en": "pancake",
+    "type": "noun"
+  },
+  {
+    "ru": "pirog",
+    "en": "pie",
+    "type": "noun"
+  },
+  {
+    "ru": "торт",
+    "en": "cake",
+    "type": "noun"
+  },
+  {
+    "ru": "булочка",
+    "en": "muffin",
+    "type": "noun"
+  },
+  {
+    "ru": "печенье",
+    "en": "cookies",
+    "type": "noun"
+  },
+  {
+    "ru": "зерновой",
+    "en": "cereal",
+    "type": "noun"
+  },
+  {
+    "ru": "йогурт",
+    "en": "yogurt",
+    "type": "noun"
+  },
+  {
+    "ru": "бутерброд",
+    "en": "sandwich",
+    "type": "noun"
+  },
+  {
+    "ru": "гамбургер",
+    "en": "hamburger",
+    "type": "noun"
+  },
+  {
+    "ru": "салат",
+    "en": "salad",
+    "type": "noun"
+  },
+  {
+    "ru": "соль",
+    "en": "salt",
+    "type": "noun"
+  },
+  {
+    "ru": "сахар",
+    "en": "sugar",
+    "type": "noun"
+  },
+  {
+    "ru": "сыр",
+    "en": "cheese",
+    "type": "noun"
+  },
+  {
+    "ru": "масло",
+    "en": "butter",
+    "type": "noun"
+  },
+  {
+    "ru": "пицца",
+    "en": "pizza",
+    "type": "noun"
+  },
+  {
+    "ru": "спагетти",
+    "en": "spaghetti",
+    "type": "noun"
+  },
+  {
+    "ru": "конфеты",
+    "en": "candy",
+    "type": "noun"
+  },
+  {
+    "ru": "мороженое",
+    "en": "ice cream",
+    "type": "noun"
+  }
+]

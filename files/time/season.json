@@ -1,0 +1,22 @@
+[
+  {
+    "ru": "осень",
+    "en": "autumn",
+    "type": "noun"
+  },
+  {
+    "ru": "зима",
+    "en": "winter",
+    "type": "noun"
+  },
+  {
+    "ru": "весна",
+    "en": "spring",
+    "type": "noun"
+  },
+  {
+    "ru": "лето",
+    "en": "summer",
+    "type": "noun"
+  }
+]

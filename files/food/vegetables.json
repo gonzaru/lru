@@ -1,0 +1,107 @@
+[
+  {
+    "ru": "огурец",
+    "en": "cucumber",
+    "type": "noun"
+  },
+  {
+    "ru": "помидор",
+    "en": "tomato",
+    "type": "noun"
+  },
+  {
+    "ru": "картошка",
+    "en": "potato",
+    "type": "noun"
+  },
+  {
+    "ru": "баклажан",
+    "en": "eggplant",
+    "type": "noun"
+  },
+  {
+    "ru": "капуста",
+    "en": "cabbage",
+    "type": "noun"
+  },
+  {
+    "ru": "цветная капуста",
+    "en": "cauliflower",
+    "type": "noun"
+  },
+  {
+    "ru": "бр+окколи",
+    "en": "broccoli",
+    "type": "noun"
+  },
+  {
+    "ru": "тыква",
+    "en": "pumpkin",
+    "type": "noun"
+  },
+  {
+    "ru": "морковь",
+    "en": "carrot",
+    "type": "noun"
+  },
+  {
+    "ru": "лук",
+    "en": "onion",
+    "type": "noun"
+  },
+  {
+    "ru": "фасоль",
+    "en": "bean",
+    "type": "noun"
+  },
+  {
+    "ru": "перец",
+    "en": "pepper",
+    "type": "noun"
+  },
+  {
+    "ru": "сельдерей",
+    "en": "celery",
+    "type": "noun"
+  },
+  {
+    "ru": "cалат",
+    "en": "lettuce",
+    "type": "noun"
+  },
+  {
+    "ru": "гриб",
+    "en": "mushroom",
+    "type": "noun"
+  },
+  {
+    "ru": "шампиньоны",
+    "en": "champignon",
+    "type": "noun"
+  },
+  {
+    "ru": "горох",
+    "en": "pea",
+    "type": "noun"
+  },
+  {
+    "ru": "авокадо",
+    "en": "avocado",
+    "type": "noun"
+  },
+  {
+    "ru": "кукуруза",
+    "en": "corn",
+    "type": "noun"
+  },
+  {
+    "ru": "чеснок",
+    "en": "garlic",
+    "type": "noun"
+  },
+  {
+    "ru": "спаржа",
+    "en": "asparagus",
+    "type": "noun"
+  }
+]

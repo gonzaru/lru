@@ -1,0 +1,57 @@
+[
+  {
+    "ru": "тепло",
+    "en": "heat",
+    "type": "noun"
+  },
+  {
+    "ru": "жарко",
+    "en": "hot",
+    "type": "noun"
+  },
+  {
+    "ru": "холодно",
+    "en": "cold",
+    "type": "noun"
+  },
+  {
+    "ru": "солнечно",
+    "en": "sunny",
+    "type": "noun"
+  },
+  {
+    "ru": "облачно",
+    "en": "partly cloudy",
+    "type": "noun"
+  },
+  {
+    "ru": "дождь",
+    "en": "rain",
+    "type": "noun"
+  },
+  {
+    "ru": "снег",
+    "en": "snow",
+    "type": "noun"
+  },
+  {
+    "ru": "гроза",
+    "en": "storm",
+    "type": "noun"
+  },
+  {
+    "ru": "температура",
+    "en": "temperature",
+    "type": "noun"
+  },
+  {
+    "ru": "10 градусов",
+    "en": "10 degrees",
+    "type": "noun"
+  },
+  {
+    "ru": "мороз",
+    "en": "frost",
+    "type": "noun"
+  }
+]

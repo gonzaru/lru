@@ -1,0 +1,122 @@
+[
+  {
+    "ru": "родственники",
+    "en": "relatives",
+    "type": "noun"
+  },
+  {
+    "ru": "близнецы",
+    "en": "twins",
+    "type": "noun"
+  },
+  {
+    "ru": "детство",
+    "en": "childhood",
+    "type": "noun"
+  },
+  {
+    "ru": "малыш",
+    "en": "baby",
+    "type": "noun"
+  },
+  {
+    "ru": "грудной ребенок",
+    "en": "baby",
+    "type": "noun"
+  },
+  {
+    "ru": "мальчик",
+    "en": "young boy",
+    "type": "noun"
+  },
+  {
+    "ru": "девочка",
+    "en": "young girl",
+    "type": "noun"
+  },
+  {
+    "ru": "девушка",
+    "en": "young woman",
+    "type": "noun"
+  },
+  {
+    "ru": "молодой человек",
+    "en": "young man",
+    "type": "noun"
+  },
+  {
+    "ru": "мужчина",
+    "en": "man",
+    "type": "noun"
+  },
+  {
+    "ru": "женщина",
+    "en": "woman",
+    "type": "noun"
+  },
+  {
+    "ru": "человек",
+    "en": "person",
+    "type": "noun"
+  },
+  {
+    "ru": "взрослый",
+    "en": "adult",
+    "type": "noun"
+  },
+  {
+    "ru": "невеста",
+    "en": "bride",
+    "type": "noun"
+  },
+  {
+    "ru": "жених",
+    "en": "groom",
+    "type": "noun"
+  },
+  {
+    "ru": "медовый месяц",
+    "en": "honey moon",
+    "type": "noun"
+  },
+  {
+    "ru": "брак",
+    "en": "marriage",
+    "type": "noun"
+  },
+  {
+    "ru": "замужем",
+    "en": "married",
+    "type": "noun"
+  },
+  {
+    "ru": "женатый",
+    "en": "married",
+    "type": "noun"
+  },
+  {
+    "ru": "жениться",
+    "en": "marry",
+    "type": "noun"
+  },
+  {
+    "ru": "выходить замуж",
+    "en": "marry",
+    "type": "noun"
+  },
+  {
+    "ru": "холостой",
+    "en": "single",
+    "type": "noun"
+  },
+  {
+    "ru": "вдова",
+    "en": "widow",
+    "type": "noun"
+  },
+  {
+    "ru": "вдовец",
+    "en": "widower",
+    "type": "noun"
+  }
+]

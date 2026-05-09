@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lru"
+version = "1.0.0"
+description = "Russian language learning tool"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.scripts]
+lru = "lru:main"
+lru_cli = "lru_cli:main"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.mypy]
+python_version = "3.10"
+strict = false
+ignore_missing_imports = true
+exclude = ["files/"]
+check_untyped_defs = true

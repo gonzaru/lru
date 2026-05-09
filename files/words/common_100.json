@@ -1,0 +1,502 @@
+[
+  {
+    "ru": "год",
+    "en": "year",
+    "type": "noun"
+  },
+  {
+    "ru": "человек",
+    "en": "person",
+    "type": "noun"
+  },
+  {
+    "ru": "время",
+    "en": "time",
+    "type": "noun"
+  },
+  {
+    "ru": "дело",
+    "en": "business,affair,matter",
+    "type": "noun"
+  },
+  {
+    "ru": "жизнь",
+    "en": "life",
+    "type": "noun"
+  },
+  {
+    "ru": "день",
+    "en": "day",
+    "type": "noun"
+  },
+  {
+    "ru": "рука",
+    "en": "arm",
+    "type": "noun"
+  },
+  {
+    "ru": "раз",
+    "en": "one,once",
+    "type": "noun,adverb"
+  },
+  {
+    "ru": "работа",
+    "en": "work,job",
+    "type": "noun"
+  },
+  {
+    "ru": "слово",
+    "en": "word",
+    "type": "noun"
+  },
+  {
+    "ru": "место",
+    "en": "place",
+    "type": "noun"
+  },
+  {
+    "ru": "лицо",
+    "en": "face",
+    "type": "noun"
+  },
+  {
+    "ru": "друг",
+    "en": "friend",
+    "type": "noun"
+  },
+  {
+    "ru": "глаз",
+    "en": "eye",
+    "type": "noun"
+  },
+  {
+    "ru": "вопрос",
+    "en": "question",
+    "type": "noun"
+  },
+  {
+    "ru": "дом",
+    "en": "house,home",
+    "type": "noun"
+  },
+  {
+    "ru": "сторона",
+    "en": "side",
+    "type": "noun"
+  },
+  {
+    "ru": "страна",
+    "en": "country",
+    "type": "noun"
+  },
+  {
+    "ru": "мир",
+    "en": "world,peace",
+    "type": "noun"
+  },
+  {
+    "ru": "случай",
+    "en": "occurrence,occasion,instance",
+    "type": "noun"
+  },
+  {
+    "ru": "голова",
+    "en": "head",
+    "type": "noun"
+  },
+  {
+    "ru": "ребенок",
+    "en": "child",
+    "type": "noun"
+  },
+  {
+    "ru": "сила",
+    "en": "force",
+    "type": "noun"
+  },
+  {
+    "ru": "конец",
+    "en": "end",
+    "type": "noun"
+  },
+  {
+    "ru": "вид",
+    "en": "appearance,sight,view",
+    "type": "noun"
+  },
+  {
+    "ru": "быть",
+    "en": "to be",
+    "type": "verb"
+  },
+  {
+    "ru": "мочь",
+    "en": "to be able",
+    "type": "verb"
+  },
+  {
+    "ru": "сказать",
+    "en": "say",
+    "type": "verb"
+  },
+  {
+    "ru": "говорить",
+    "en": "speak",
+    "type": "verb"
+  },
+  {
+    "ru": "знать",
+    "en": "know",
+    "type": "verb"
+  },
+  {
+    "ru": "стать",
+    "en": "become",
+    "type": "verb"
+  },
+  {
+    "ru": "хотеть",
+    "en": "want",
+    "type": "verb"
+  },
+  {
+    "ru": "идти",
+    "en": "to go",
+    "type": "verb"
+  },
+  {
+    "ru": "иметь",
+    "en": "to have",
+    "type": "verb"
+  },
+  {
+    "ru": "видеть",
+    "en": "to see",
+    "type": "verb"
+  },
+  {
+    "ru": "думать",
+    "en": "to think",
+    "type": "verb"
+  },
+  {
+    "ru": "сделать",
+    "en": "to do",
+    "type": "verb"
+  },
+  {
+    "ru": "жить",
+    "en": "to live",
+    "type": "verb"
+  },
+  {
+    "ru": "делать",
+    "en": "to do,to make",
+    "type": "verb"
+  },
+  {
+    "ru": "смотреть",
+    "en": "to watch",
+    "type": "verb"
+  },
+  {
+    "ru": "работать",
+    "en": "to work",
+    "type": "verb"
+  },
+  {
+    "ru": "понять",
+    "en": "to understand",
+    "type": "verb"
+  },
+  {
+    "ru": "пойти",
+    "en": "to go",
+    "type": "verb"
+  },
+  {
+    "ru": "спросить",
+    "en": "to ask",
+    "type": "verb"
+  },
+  {
+    "ru": "дать",
+    "en": "to give",
+    "type": "verb"
+  },
+  {
+    "ru": "понимать",
+    "en": "to understand",
+    "type": "verb"
+  },
+  {
+    "ru": "получить",
+    "en": "receive",
+    "type": "verb"
+  },
+  {
+    "ru": "сидеть",
+    "en": "to sit",
+    "type": "verb"
+  },
+  {
+    "ru": "оказаться",
+    "en": "to happen",
+    "type": "verb"
+  },
+  {
+    "ru": "взять",
+    "en": "to take",
+    "type": "verb"
+  },
+  {
+    "ru": "новый",
+    "en": "new",
+    "type": "adjective"
+  },
+  {
+    "ru": "большой",
+    "en": "large",
+    "type": "adjective"
+  },
+  {
+    "ru": "должен",
+    "en": "have to",
+    "type": "verb"
+  },
+  {
+    "ru": "последний",
+    "en": "last",
+    "type": "adjective"
+  },
+  {
+    "ru": "российский",
+    "en": "Russian",
+    "type": "adjective"
+  },
+  {
+    "ru": "русский",
+    "en": "Russian",
+    "type": "adjective"
+  },
+  {
+    "ru": "общий",
+    "en": "common",
+    "type": "adjective"
+  },
+  {
+    "ru": "высокий",
+    "en": "tall",
+    "type": "adjective"
+  },
+  {
+    "ru": "хороший",
+    "en": "good",
+    "type": "adjective"
+  },
+  {
+    "ru": "главный",
+    "en": "main",
+    "type": "adjective"
+  },
+  {
+    "ru": "лучший",
+    "en": "the best",
+    "type": "adjective"
+  },
+  {
+    "ru": "маленький",
+    "en": "small",
+    "type": "adjective"
+  },
+  {
+    "ru": "молодой",
+    "en": "young",
+    "type": "adjective"
+  },
+  {
+    "ru": "государственный",
+    "en": "state,public",
+    "type": "adjective"
+  },
+  {
+    "ru": "полный",
+    "en": "full,complete",
+    "type": "adjective"
+  },
+  {
+    "ru": "советский",
+    "en": "Soviet",
+    "type": "adjective"
+  },
+  {
+    "ru": "настоящий",
+    "en": "real",
+    "type": "adjective"
+  },
+  {
+    "ru": "старый",
+    "en": "old",
+    "type": "adjective"
+  },
+  {
+    "ru": "разный",
+    "en": "different",
+    "type": "adjective"
+  },
+  {
+    "ru": "нужный",
+    "en": "necessary",
+    "type": "adjective"
+  },
+  {
+    "ru": "белый",
+    "en": "white",
+    "type": "adjective"
+  },
+  {
+    "ru": "собственный",
+    "en": "own",
+    "type": "adjective"
+  },
+  {
+    "ru": "чёрный",
+    "en": "black",
+    "type": "adjective"
+  },
+  {
+    "ru": "основной",
+    "en": "main",
+    "type": "adjective"
+  },
+  {
+    "ru": "далёкий",
+    "en": "distant",
+    "type": "adjective"
+  },
+  {
+    "ru": "ещё",
+    "en": "more,too",
+    "type": "adverb"
+  },
+  {
+    "ru": "уже",
+    "en": "already",
+    "type": "adverb"
+  },
+  {
+    "ru": "очень",
+    "en": "very",
+    "type": "adverb"
+  },
+  {
+    "ru": "можно",
+    "en": "may",
+    "type": "predicative"
+  },
+  {
+    "ru": "надо",
+    "en": "need",
+    "type": "preposition,verb"
+  },
+  {
+    "ru": "нет",
+    "en": "no",
+    "type": "negation"
+  },
+  {
+    "ru": "тоже",
+    "en": "too,also",
+    "type": "adverb"
+  },
+  {
+    "ru": "более",
+    "en": "more",
+    "type": "adverb"
+  },
+  {
+    "ru": "конечно",
+    "en": "of course",
+    "type": "adverb"
+  },
+  {
+    "ru": "также",
+    "en": "as well",
+    "type": "adverb"
+  },
+  {
+    "ru": "вдруг",
+    "en": "suddenly",
+    "type": "noun"
+  },
+  {
+    "ru": "почти",
+    "en": "almost",
+    "type": "adverb"
+  },
+  {
+    "ru": "сразу",
+    "en": "immediately",
+    "type": "adverb"
+  },
+  {
+    "ru": "хорошо",
+    "en": "good",
+    "type": "adverb"
+  },
+  {
+    "ru": "сегодня",
+    "en": "today",
+    "type": "adverb"
+  },
+  {
+    "ru": "совсем",
+    "en": "completely",
+    "type": "adverb"
+  },
+  {
+    "ru": "вообще",
+    "en": "generally",
+    "type": "adverb"
+  },
+  {
+    "ru": "больше",
+    "en": "more",
+    "type": "adverb"
+  },
+  {
+    "ru": "вместе",
+    "en": "together",
+    "type": "adverb"
+  },
+  {
+    "ru": "например",
+    "en": "example",
+    "type": "adverb"
+  },
+  {
+    "ru": "нужно",
+    "en": "need",
+    "type": "verb"
+  },
+  {
+    "ru": "опять",
+    "en": "again",
+    "type": "adverb"
+  },
+  {
+    "ru": "снова",
+    "en": "again",
+    "type": "adverb"
+  },
+  {
+    "ru": "нельзя",
+    "en": "cannot,not allowed",
+    "type": "predicative"
+  },
+  {
+    "ru": "особенно",
+    "en": "especially",
+    "type": "adverb"
+  }
+]

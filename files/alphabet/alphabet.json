@@ -1,0 +1,167 @@
+[
+  {
+    "upper": "А",
+    "lower": "а",
+    "type": "letter"
+  },
+  {
+    "upper": "Б",
+    "lower": "б",
+    "type": "letter"
+  },
+  {
+    "upper": "В",
+    "lower": "в",
+    "type": "letter"
+  },
+  {
+    "upper": "Г",
+    "lower": "г",
+    "type": "letter"
+  },
+  {
+    "upper": "Д",
+    "lower": "д",
+    "type": "letter"
+  },
+  {
+    "upper": "Е",
+    "lower": "е",
+    "type": "letter"
+  },
+  {
+    "upper": "Ё",
+    "lower": "ё",
+    "type": "letter"
+  },
+  {
+    "upper": "Ж",
+    "lower": "ж",
+    "type": "letter"
+  },
+  {
+    "upper": "З",
+    "lower": "з",
+    "type": "letter"
+  },
+  {
+    "upper": "И",
+    "lower": "и",
+    "type": "letter"
+  },
+  {
+    "upper": "Й",
+    "lower": "й",
+    "type": "letter"
+  },
+  {
+    "upper": "К",
+    "lower": "к",
+    "type": "letter"
+  },
+  {
+    "upper": "Л",
+    "lower": "л",
+    "type": "letter"
+  },
+  {
+    "upper": "М",
+    "lower": "м",
+    "type": "letter"
+  },
+  {
+    "upper": "Н",
+    "lower": "н",
+    "type": "letter"
+  },
+  {
+    "upper": "О",
+    "lower": "о",
+    "type": "letter"
+  },
+  {
+    "upper": "П",
+    "lower": "п",
+    "type": "letter"
+  },
+  {
+    "upper": "Р",
+    "lower": "р",
+    "type": "letter"
+  },
+  {
+    "upper": "С",
+    "lower": "с",
+    "type": "letter"
+  },
+  {
+    "upper": "Т",
+    "lower": "т",
+    "type": "letter"
+  },
+  {
+    "upper": "У",
+    "lower": "у",
+    "type": "letter"
+  },
+  {
+    "upper": "Ф",
+    "lower": "ф",
+    "type": "letter"
+  },
+  {
+    "upper": "Х",
+    "lower": "х",
+    "type": "letter"
+  },
+  {
+    "upper": "Ц",
+    "lower": "ц",
+    "type": "letter"
+  },
+  {
+    "upper": "Ч",
+    "lower": "ч",
+    "type": "letter"
+  },
+  {
+    "upper": "Ш",
+    "lower": "ш",
+    "type": "letter"
+  },
+  {
+    "upper": "Щ",
+    "lower": "щ",
+    "type": "letter"
+  },
+  {
+    "upper": "ъ",
+    "lower": "ъ",
+    "type": "letter"
+  },
+  {
+    "upper": "ы",
+    "lower": "ы",
+    "type": "letter"
+  },
+  {
+    "upper": "ь",
+    "lower": "ь",
+    "type": "letter"
+  },
+  {
+    "upper": "Э",
+    "lower": "э",
+    "type": "letter"
+  },
+  {
+    "upper": "Ю",
+    "lower": "ю",
+    "type": "letter"
+  },
+  {
+    "upper": "Я",
+    "lower": "я",
+    "type": "letter"
+  }
+]

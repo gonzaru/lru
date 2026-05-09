@@ -1,0 +1,432 @@
+[
+  {
+    "ru": "кот",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "ru": "кошка",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "ru": "собака",
+    "en": "dog",
+    "type": "noun"
+  },
+  {
+    "ru": "медведь",
+    "en": "bear",
+    "type": "noun"
+  },
+  {
+    "ru": "слон",
+    "en": "elephant",
+    "type": "noun"
+  },
+  {
+    "ru": "лев",
+    "en": "lion",
+    "type": "noun"
+  },
+  {
+    "ru": "тигр",
+    "en": "tiger",
+    "type": "noun"
+  },
+  {
+    "ru": "жираф",
+    "en": "giraffe",
+    "type": "noun"
+  },
+  {
+    "ru": "верблюд",
+    "en": "camel",
+    "type": "noun"
+  },
+  {
+    "ru": "кролик",
+    "en": "rabbit",
+    "type": "noun"
+  },
+  {
+    "ru": "заяц",
+    "en": "hare",
+    "type": "noun"
+  },
+  {
+    "ru": "обезьяна",
+    "en": "monkey",
+    "type": "noun"
+  },
+  {
+    "ru": "белка",
+    "en": "squirrel",
+    "type": "noun"
+  },
+  {
+    "ru": "волк",
+    "en": "wolf",
+    "type": "noun"
+  },
+  {
+    "ru": "лиса",
+    "en": "fox",
+    "type": "noun"
+  },
+  {
+    "ru": "крот",
+    "en": "mole",
+    "type": "noun"
+  },
+  {
+    "ru": "мышь",
+    "en": "mouse",
+    "type": "noun"
+  },
+  {
+    "ru": "крыса",
+    "en": "rat",
+    "type": "noun"
+  },
+  {
+    "ru": "ежик",
+    "en": "hedge-hog",
+    "type": "noun"
+  },
+  {
+    "ru": "змея",
+    "en": "snake",
+    "type": "noun"
+  },
+  {
+    "ru": "антилопа",
+    "en": "antelope",
+    "type": "noun"
+  },
+  {
+    "ru": "бизон",
+    "en": "bison",
+    "type": "noun"
+  },
+  {
+    "ru": "буйвол",
+    "en": "buffalo",
+    "type": "noun"
+  },
+  {
+    "ru": "лось",
+    "en": "elk, moose",
+    "type": "noun"
+  },
+  {
+    "ru": "олень",
+    "en": "deer",
+    "type": "noun"
+  },
+  {
+    "ru": "дикобраз",
+    "en": "porcupine",
+    "type": "noun"
+  },
+  {
+    "ru": "зебра",
+    "en": "zebra",
+    "type": "noun"
+  },
+  {
+    "ru": "носорог",
+    "en": "rhino",
+    "type": "noun"
+  },
+  {
+    "ru": "гиппопотам",
+    "en": "hippopotamus",
+    "type": "noun"
+  },
+  {
+    "ru": "горилла",
+    "en": "gorilla",
+    "type": "noun"
+  },
+  {
+    "ru": "шимпанзе",
+    "en": "chimpanzee",
+    "type": "noun"
+  },
+  {
+    "ru": "орангутанг",
+    "en": "orangutan",
+    "type": "noun"
+  },
+  {
+    "ru": "обезьяна",
+    "en": "ape",
+    "type": "noun"
+  },
+  {
+    "ru": "леопард",
+    "en": "leopard",
+    "type": "noun"
+  },
+  {
+    "ru": "гепард",
+    "en": "cheetah",
+    "type": "noun"
+  },
+  {
+    "ru": "панда",
+    "en": "panda",
+    "type": "noun"
+  },
+  {
+    "ru": "газель",
+    "en": "gazelle",
+    "type": "noun"
+  },
+  {
+    "ru": "курица",
+    "en": "chicken",
+    "type": "noun"
+  },
+  {
+    "ru": "петух",
+    "en": "cock",
+    "type": "noun"
+  },
+  {
+    "ru": "корова",
+    "en": "cow",
+    "type": "noun"
+  },
+  {
+    "ru": "бык",
+    "en": "bull",
+    "type": "noun"
+  },
+  {
+    "ru": "буйвол",
+    "en": "buffalo",
+    "type": "noun"
+  },
+  {
+    "ru": "овца",
+    "en": "sheep",
+    "type": "noun"
+  },
+  {
+    "ru": "баран",
+    "en": "ram",
+    "type": "noun"
+  },
+  {
+    "ru": "коза, Козёл",
+    "en": "goat",
+    "type": "noun"
+  },
+  {
+    "ru": "осел",
+    "en": "donkey",
+    "type": "noun"
+  },
+  {
+    "ru": "лошадь",
+    "en": "horse",
+    "type": "noun"
+  },
+  {
+    "ru": "гусь",
+    "en": "goose",
+    "type": "noun"
+  },
+  {
+    "ru": "утка",
+    "en": "duck",
+    "type": "noun"
+  },
+  {
+    "ru": "паук",
+    "en": "spider",
+    "type": "noun"
+  },
+  {
+    "ru": "муравей",
+    "en": "ant",
+    "type": "noun"
+  },
+  {
+    "ru": "пчела",
+    "en": "bee",
+    "type": "noun"
+  },
+  {
+    "ru": "оса",
+    "en": "wasp",
+    "type": "noun"
+  },
+  {
+    "ru": "червяк",
+    "en": "worm",
+    "type": "noun"
+  },
+  {
+    "ru": "бабочка",
+    "en": "butterfly",
+    "type": "noun"
+  },
+  {
+    "ru": "моль",
+    "en": "moth",
+    "type": "noun"
+  },
+  {
+    "ru": "кенгуру",
+    "en": "kangaroo",
+    "type": "noun"
+  },
+  {
+    "ru": "эму",
+    "en": "emu",
+    "type": "noun"
+  },
+  {
+    "ru": "вомбат",
+    "en": "wombat",
+    "type": "noun"
+  },
+  {
+    "ru": "коала",
+    "en": "koala",
+    "type": "noun"
+  },
+  {
+    "ru": "рыба",
+    "en": "fish",
+    "type": "noun"
+  },
+  {
+    "ru": "дельфин",
+    "en": "dolphin",
+    "type": "noun"
+  },
+  {
+    "ru": "крокодил",
+    "en": "crocodile",
+    "type": "noun"
+  },
+  {
+    "ru": "аллигатор",
+    "en": "alligator",
+    "type": "noun"
+  },
+  {
+    "ru": "осьминог",
+    "en": "octopus",
+    "type": "noun"
+  },
+  {
+    "ru": "кит",
+    "en": "whale",
+    "type": "noun"
+  },
+  {
+    "ru": "акула",
+    "en": "shark",
+    "type": "noun"
+  },
+  {
+    "ru": "черепаха",
+    "en": "turtle",
+    "type": "noun"
+  },
+  {
+    "ru": "лягушка",
+    "en": "frog",
+    "type": "noun"
+  },
+  {
+    "ru": "нерпа",
+    "en": "seal",
+    "type": "noun"
+  },
+  {
+    "ru": "жаба",
+    "en": "toad",
+    "type": "noun"
+  },
+  {
+    "ru": "кальмар",
+    "en": "squid",
+    "type": "noun"
+  },
+  {
+    "ru": "птица",
+    "en": "bird",
+    "type": "noun"
+  },
+  {
+    "ru": "скворец",
+    "en": "starling",
+    "type": "noun"
+  },
+  {
+    "ru": "дятел",
+    "en": "woodpecker",
+    "type": "noun"
+  },
+  {
+    "ru": "воробей",
+    "en": "sparrow",
+    "type": "noun"
+  },
+  {
+    "ru": "ворона",
+    "en": "crow",
+    "type": "noun"
+  },
+  {
+    "ru": "снегирь",
+    "en": "bullfinch",
+    "type": "noun"
+  },
+  {
+    "ru": "сова",
+    "en": "owl",
+    "type": "noun"
+  },
+  {
+    "ru": "пингвин",
+    "en": "penguin",
+    "type": "noun"
+  },
+  {
+    "ru": "попугай",
+    "en": "parrot",
+    "type": "noun"
+  },
+  {
+    "ru": "малиновка",
+    "en": "robin",
+    "type": "noun"
+  },
+  {
+    "ru": "голубь",
+    "en": "pigeon",
+    "type": "noun"
+  },
+  {
+    "ru": "павлин",
+    "en": "peacock",
+    "type": "noun"
+  },
+  {
+    "ru": "фламинго",
+    "en": "flamingo",
+    "type": "noun"
+  },
+  {
+    "ru": "страус",
+    "en": "ostrich",
+    "type": "noun"
+  }
+]

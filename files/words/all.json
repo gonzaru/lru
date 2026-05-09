@@ -1,0 +1,4982 @@
+[
+  {
+    "ru": "и",
+    "en": "and,though",
+    "type": "conjunction"
+  },
+  {
+    "ru": "в",
+    "en": "in,at",
+    "type": "preposition"
+  },
+  {
+    "ru": "не",
+    "en": "not",
+    "type": "particle"
+  },
+  {
+    "ru": "он",
+    "en": "he",
+    "type": "pronoun"
+  },
+  {
+    "ru": "на",
+    "en": "on,it,at,to",
+    "type": "preposition"
+  },
+  {
+    "ru": "я",
+    "en": "I",
+    "type": "pronoun"
+  },
+  {
+    "ru": "что",
+    "en": "what,that,why",
+    "type": "сonjunction,pronoun"
+  },
+  {
+    "ru": "тот",
+    "en": "that",
+    "type": "adjective,pronoun"
+  },
+  {
+    "ru": "быть",
+    "en": "to be",
+    "type": "verb"
+  },
+  {
+    "ru": "бить",
+    "en": "to beat",
+    "type": "verb"
+  },
+  {
+    "ru": "с",
+    "en": "with,and,from,of",
+    "type": "preposition"
+  },
+  {
+    "ru": "а",
+    "en": "while,and,but",
+    "type": "conjunction"
+  },
+  {
+    "ru": "весь",
+    "en": "all,everything",
+    "type": "pronoun"
+  },
+  {
+    "ru": "это",
+    "en": "that,this,it",
+    "type": "pronoun"
+  },
+  {
+    "ru": "как",
+    "en": "how,what,as,like",
+    "type": "adverb,conjunction"
+  },
+  {
+    "ru": "она",
+    "en": "she",
+    "type": "pronoun"
+  },
+  {
+    "ru": "по",
+    "en": "on,along,by",
+    "type": "preposition"
+  },
+  {
+    "ru": "но",
+    "en": "but",
+    "type": "conjunction,noun"
+  },
+  {
+    "ru": "они",
+    "en": "they",
+    "type": "pronoun"
+  },
+  {
+    "ru": "к",
+    "en": "to,for,by",
+    "type": "preposition"
+  },
+  {
+    "ru": "у",
+    "en": "by,with,of",
+    "type": "preposition"
+  },
+  {
+    "ru": "ты",
+    "en": "you",
+    "type": "pronoun"
+  },
+  {
+    "ru": "из",
+    "en": "from,of,in",
+    "type": "preposition"
+  },
+  {
+    "ru": "мы",
+    "en": "we",
+    "type": "pronoun"
+  },
+  {
+    "ru": "за",
+    "en": "behind,over,at,after",
+    "type": "preposition"
+  },
+  {
+    "ru": "вы",
+    "en": "you",
+    "type": "pronoun"
+  },
+  {
+    "ru": "так",
+    "en": "so,thus,then",
+    "type": "adverb"
+  },
+  {
+    "ru": "же",
+    "en": "and,asfor,but,same",
+    "type": "conjuction,particle"
+  },
+  {
+    "ru": "от",
+    "en": "from,of,for",
+    "type": "preposition"
+  },
+  {
+    "ru": "сказать",
+    "en": "to say,to speak",
+    "type": "verb"
+  },
+  {
+    "ru": "этот",
+    "en": "this",
+    "type": "pronoun"
+  },
+  {
+    "ru": "который",
+    "en": "which,who,that",
+    "type": "pronoun"
+  },
+  {
+    "ru": "мочь",
+    "en": "to be able",
+    "type": "verb"
+  },
+  {
+    "ru": "человек",
+    "en": "man,person",
+    "type": "noun"
+  },
+  {
+    "ru": "о",
+    "en": "of,about,against",
+    "type": "preposition"
+  },
+  {
+    "ru": "один",
+    "en": "one,some,alone",
+    "type": "number,pronoun"
+  },
+  {
+    "ru": "ещё",
+    "en": "still,yet",
+    "type": "adverb"
+  },
+  {
+    "ru": "бы",
+    "en": "would",
+    "type": "particle"
+  },
+  {
+    "ru": "такой",
+    "en": "such,so,some",
+    "type": "pronoun"
+  },
+  {
+    "ru": "только",
+    "en": "only,merely,but",
+    "type": "adverb,conj"
+  },
+  {
+    "ru": "себя",
+    "en": "myself,himself,herself",
+    "type": "pron,particle"
+  },
+  {
+    "ru": "своё",
+    "en": "one's own,my,our",
+    "type": "pronoun,noun"
+  },
+  {
+    "ru": "какой",
+    "en": "what,which,how",
+    "type": "pronoun"
+  },
+  {
+    "ru": "когда",
+    "en": "when,while,as",
+    "type": "adverb,conj"
+  },
+  {
+    "ru": "уже",
+    "en": "already,bynow",
+    "type": "adverb"
+  },
+  {
+    "ru": "для",
+    "en": "for,to",
+    "type": "preposition"
+  },
+  {
+    "ru": "вот",
+    "en": "here,there,that's",
+    "type": "particle"
+  },
+  {
+    "ru": "кто",
+    "en": "who,that,some",
+    "type": "pronoun"
+  },
+  {
+    "ru": "да",
+    "en": "yes,but",
+    "type": "conjuction,particle"
+  },
+  {
+    "ru": "говорить",
+    "en": "to speak",
+    "type": "verb"
+  },
+  {
+    "ru": "год",
+    "en": "year",
+    "type": "noun"
+  },
+  {
+    "ru": "знать",
+    "en": "to know",
+    "type": "verb"
+  },
+  {
+    "ru": "мой",
+    "en": "my,mine",
+    "type": "pronoun"
+  },
+  {
+    "ru": "до",
+    "en": "to,upto,about,before",
+    "type": "preposition"
+  },
+  {
+    "ru": "или",
+    "en": "or",
+    "type": "conjunction"
+  },
+  {
+    "ru": "если",
+    "en": "if",
+    "type": "conjunction"
+  },
+  {
+    "ru": "время",
+    "en": "time,season",
+    "type": "noun"
+  },
+  {
+    "ru": "рука",
+    "en": "hand,arm",
+    "type": "noun"
+  },
+  {
+    "ru": "нет",
+    "en": "no,not,but",
+    "type": "negation"
+  },
+  {
+    "ru": "самый",
+    "en": "most,the very,the same",
+    "type": "pronoun"
+  },
+  {
+    "ru": "ни",
+    "en": "not a,not,neither,nor",
+    "type": "conjunction,particle"
+  },
+  {
+    "ru": "стать",
+    "en": "to become,begin,come",
+    "type": "verb"
+  },
+  {
+    "ru": "большой",
+    "en": "big,large,important",
+    "type": "adjective"
+  },
+  {
+    "ru": "даже",
+    "en": "even",
+    "type": "particle"
+  },
+  {
+    "ru": "другой",
+    "en": "other,another,different",
+    "type": "pronoun"
+  },
+  {
+    "ru": "наш",
+    "en": "our,ours",
+    "type": "pronoun"
+  },
+  {
+    "ru": "свой",
+    "en": "my,our,your",
+    "type": "pronoun"
+  },
+  {
+    "ru": "ну",
+    "en": "now,right,well,come on",
+    "type": "interjection"
+  },
+  {
+    "ru": "под",
+    "en": "under,for,towards,to",
+    "type": "preposition"
+  },
+  {
+    "ru": "где",
+    "en": "where",
+    "type": "adverb"
+  },
+  {
+    "ru": "дело",
+    "en": "business,affair,matter",
+    "type": "noun"
+  },
+  {
+    "ru": "есть",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "ru": "сам",
+    "en": "myself,yourself",
+    "type": "pronoun"
+  },
+  {
+    "ru": "раз",
+    "en": "time,once,since",
+    "type": "noun,adverb"
+  },
+  {
+    "ru": "чтобы",
+    "en": "that,in order that",
+    "type": "conjunction,particle"
+  },
+  {
+    "ru": "два",
+    "en": "two",
+    "type": "number"
+  },
+  {
+    "ru": "там",
+    "en": "there,then",
+    "type": "adverb"
+  },
+  {
+    "ru": "чем",
+    "en": "than,instead of",
+    "type": "conjunction,particle"
+  },
+  {
+    "ru": "глаз",
+    "en": "eye,sight",
+    "type": "noun"
+  },
+  {
+    "ru": "жизнь",
+    "en": "life",
+    "type": "noun"
+  },
+  {
+    "ru": "первый",
+    "en": "first,front,former",
+    "type": "adjective,number"
+  },
+  {
+    "ru": "день",
+    "en": "day",
+    "type": "noun"
+  },
+  {
+    "ru": "тут",
+    "en": "here,now,then",
+    "type": "adverb"
+  },
+  {
+    "ru": "во",
+    "en": "in,at,super,exactly",
+    "type": "preposition,particle"
+  },
+  {
+    "ru": "ничто",
+    "en": "nothing",
+    "type": "pronoun"
+  },
+  {
+    "ru": "потом",
+    "en": "later,afterwards,then",
+    "type": "adverb"
+  },
+  {
+    "ru": "очень",
+    "en": "very",
+    "type": "adverb"
+  },
+  {
+    "ru": "со",
+    "en": "with",
+    "type": "preposition"
+  },
+  {
+    "ru": "хотеть",
+    "en": "to want",
+    "type": "verb"
+  },
+  {
+    "ru": "ли",
+    "en": "whether,if",
+    "type": "conjuction,particle"
+  },
+  {
+    "ru": "при",
+    "en": "attached to,in the presence of",
+    "type": "preposition"
+  },
+  {
+    "ru": "голова",
+    "en": "head,mind,brains",
+    "type": "noun"
+  },
+  {
+    "ru": "надо",
+    "en": "over,above",
+    "type": "preposition,verb"
+  },
+  {
+    "ru": "без",
+    "en": "without",
+    "type": "preposition"
+  },
+  {
+    "ru": "видеть",
+    "en": "to see",
+    "type": "verb"
+  },
+  {
+    "ru": "идти",
+    "en": "to go",
+    "type": "verb"
+  },
+  {
+    "ru": "теперь",
+    "en": "now,nowadays",
+    "type": "adverb"
+  },
+  {
+    "ru": "тоже",
+    "en": "also,aswell,too",
+    "type": "adverb"
+  },
+  {
+    "ru": "стоять",
+    "en": "to stand",
+    "type": "verb"
+  },
+  {
+    "ru": "друг",
+    "en": "friend",
+    "type": "noun"
+  },
+  {
+    "ru": "дом",
+    "en": "house,homen",
+    "type": "noun"
+  },
+  {
+    "ru": "сейчас",
+    "en": "now,presently,soon",
+    "type": "adverb"
+  },
+  {
+    "ru": "можно",
+    "en": "one can",
+    "type": "predicative"
+  },
+  {
+    "ru": "после",
+    "en": "after,afterwards",
+    "type": "preposition"
+  },
+  {
+    "ru": "слово",
+    "en": "word",
+    "type": "noun"
+  },
+  {
+    "ru": "здесь",
+    "en": "here",
+    "type": "adverb"
+  },
+  {
+    "ru": "думать",
+    "en": "to think",
+    "type": "verb"
+  },
+  {
+    "ru": "место",
+    "en": "place,seat",
+    "type": "noun"
+  },
+  {
+    "ru": "спросить",
+    "en": "to ask",
+    "type": "verb"
+  },
+  {
+    "ru": "через",
+    "en": "through,across",
+    "type": "preposition"
+  },
+  {
+    "ru": "лицо",
+    "en": "face,person",
+    "type": "noun"
+  },
+  {
+    "ru": "что",
+    "en": "what,which,that",
+    "type": "pronoun"
+  },
+  {
+    "ru": "тогда",
+    "en": "then",
+    "type": "adverb"
+  },
+  {
+    "ru": "ведь",
+    "en": "you see,you know",
+    "type": "conj"
+  },
+  {
+    "ru": "хороший",
+    "en": "good,nice",
+    "type": "adjective"
+  },
+  {
+    "ru": "каждый",
+    "en": "each,every",
+    "type": "pronoun"
+  },
+  {
+    "ru": "новый",
+    "en": "new,modern",
+    "type": "adjective"
+  },
+  {
+    "ru": "жить",
+    "en": "to live",
+    "type": "verb"
+  },
+  {
+    "ru": "должный",
+    "en": "due,proper",
+    "type": "adjective"
+  },
+  {
+    "ru": "смотреть",
+    "en": "to look",
+    "type": "verb"
+  },
+  {
+    "ru": "почему",
+    "en": "why",
+    "type": "adverb"
+  },
+  {
+    "ru": "потому",
+    "en": "that's why",
+    "type": "adverb"
+  },
+  {
+    "ru": "сторона",
+    "en": "side,party",
+    "type": "noun"
+  },
+  {
+    "ru": "просто",
+    "en": "simply",
+    "type": "adverb"
+  },
+  {
+    "ru": "нога",
+    "en": "foot,leg",
+    "type": "noun"
+  },
+  {
+    "ru": "сидеть",
+    "en": "to sit",
+    "type": "verb"
+  },
+  {
+    "ru": "понять",
+    "en": "to understand,realize",
+    "type": "verb"
+  },
+  {
+    "ru": "иметь",
+    "en": "to have",
+    "type": "verb"
+  },
+  {
+    "ru": "конечный",
+    "en": "final,last",
+    "type": "adjective"
+  },
+  {
+    "ru": "делать",
+    "en": "to do",
+    "type": "verb"
+  },
+  {
+    "ru": "вдруг",
+    "en": "suddenly",
+    "type": "adverb"
+  },
+  {
+    "ru": "над",
+    "en": "above,over",
+    "type": "preposition"
+  },
+  {
+    "ru": "взять",
+    "en": "to take",
+    "type": "verb"
+  },
+  {
+    "ru": "никто",
+    "en": "nobody",
+    "type": "pronoun"
+  },
+  {
+    "ru": "дверь",
+    "en": "door",
+    "type": "noun"
+  },
+  {
+    "ru": "перед",
+    "en": "before,in front of",
+    "type": "preposition"
+  },
+  {
+    "ru": "нужный",
+    "en": "necessary",
+    "type": "adjective"
+  },
+  {
+    "ru": "понимать",
+    "en": "to understand",
+    "type": "verb"
+  },
+  {
+    "ru": "казаться",
+    "en": "to seem",
+    "type": "verb"
+  },
+  {
+    "ru": "работа",
+    "en": "work,job",
+    "type": "noun"
+  },
+  {
+    "ru": "три",
+    "en": "three",
+    "type": "number"
+  },
+  {
+    "ru": "ваш",
+    "en": "yours",
+    "type": "pronoun"
+  },
+  {
+    "ru": "уж",
+    "en": "really,already",
+    "type": "adverb,particle"
+  },
+  {
+    "ru": "земля",
+    "en": "earth,land,soil",
+    "type": "noun"
+  },
+  {
+    "ru": "конец",
+    "en": "end,distance",
+    "type": "noun"
+  },
+  {
+    "ru": "несколько",
+    "en": "several,somead",
+    "type": "verb"
+  },
+  {
+    "ru": "час",
+    "en": "hour,time",
+    "type": "noun"
+  },
+  {
+    "ru": "голос",
+    "en": "voice",
+    "type": "noun"
+  },
+  {
+    "ru": "город",
+    "en": "town,city",
+    "type": "noun"
+  },
+  {
+    "ru": "последний",
+    "en": "last,the latest,new",
+    "type": "adjective"
+  },
+  {
+    "ru": "пока",
+    "en": "for the present",
+    "type": "adverb"
+  },
+  {
+    "ru": "хорошо",
+    "en": "well",
+    "type": "adverb"
+  },
+  {
+    "ru": "давать",
+    "en": "to give",
+    "type": "verb"
+  },
+  {
+    "ru": "вода",
+    "en": "water",
+    "type": "noun"
+  },
+  {
+    "ru": "более",
+    "en": "more",
+    "type": "adverb"
+  },
+  {
+    "ru": "хотя",
+    "en": "although",
+    "type": "conjunction"
+  },
+  {
+    "ru": "всегда",
+    "en": "always",
+    "type": "adverb"
+  },
+  {
+    "ru": "второй",
+    "en": "second",
+    "type": "number"
+  },
+  {
+    "ru": "куда",
+    "en": "where,what for,much",
+    "type": "adverb"
+  },
+  {
+    "ru": "пойти",
+    "en": "to go",
+    "type": "verb"
+  },
+  {
+    "ru": "стол",
+    "en": "table,desk,board",
+    "type": "noun"
+  },
+  {
+    "ru": "ребёнок",
+    "en": "child,kid,infant",
+    "type": "noun"
+  },
+  {
+    "ru": "увидеть",
+    "en": "to see",
+    "type": "verb"
+  },
+  {
+    "ru": "сила",
+    "en": "strength,force",
+    "type": "noun"
+  },
+  {
+    "ru": "отец",
+    "en": "father",
+    "type": "noun"
+  },
+  {
+    "ru": "женщина",
+    "en": "woman",
+    "type": "noun"
+  },
+  {
+    "ru": "машина",
+    "en": "car,machine,engine",
+    "type": "noun"
+  },
+  {
+    "ru": "случай",
+    "en": "case,occasion,incident",
+    "type": "noun"
+  },
+  {
+    "ru": "ночь",
+    "en": "night",
+    "type": "noun"
+  },
+  {
+    "ru": "сразу",
+    "en": "at once,right away,just",
+    "type": "adverb"
+  },
+  {
+    "ru": "мир",
+    "en": "world,peace",
+    "type": "noun"
+  },
+  {
+    "ru": "совсем",
+    "en": "quite,entirely,totally",
+    "type": "adverb"
+  },
+  {
+    "ru": "остаться",
+    "en": "to remain,stay",
+    "type": "verb"
+  },
+  {
+    "ru": "об",
+    "en": "about,of",
+    "type": "preposition"
+  },
+  {
+    "ru": "вид",
+    "en": "appearance,look,view",
+    "type": "noun"
+  },
+  {
+    "ru": "выйти",
+    "en": "to goout,come out,appear",
+    "type": "verb"
+  },
+  {
+    "ru": "дать",
+    "en": "to give",
+    "type": "verb"
+  },
+  {
+    "ru": "работать",
+    "en": "to work",
+    "type": "verb"
+  },
+  {
+    "ru": "любить",
+    "en": "to love",
+    "type": "verb"
+  },
+  {
+    "ru": "старый",
+    "en": "old",
+    "type": "adjective"
+  },
+  {
+    "ru": "почти",
+    "en": "almost",
+    "type": "adverb"
+  },
+  {
+    "ru": "ряд",
+    "en": "row,line",
+    "type": "noun"
+  },
+  {
+    "ru": "оказаться",
+    "en": "find oneself,turn out",
+    "type": "verb"
+  },
+  {
+    "ru": "начало",
+    "en": "beginning,origin,source",
+    "type": "noun"
+  },
+  {
+    "ru": "твой",
+    "en": "your,yours(informal)",
+    "type": "pronoun"
+  },
+  {
+    "ru": "вопрос",
+    "en": "question,matter,problem",
+    "type": "noun"
+  },
+  {
+    "ru": "много",
+    "en": "many,much,very",
+    "type": "adverb"
+  },
+  {
+    "ru": "война",
+    "en": "war",
+    "type": "noun"
+  },
+  {
+    "ru": "снова",
+    "en": "again",
+    "type": "adverb"
+  },
+  {
+    "ru": "ответить",
+    "en": "to answer,reply",
+    "type": "verb"
+  },
+  {
+    "ru": "между",
+    "en": "between,among",
+    "type": "preposition"
+  },
+  {
+    "ru": "подумать",
+    "en": "to think",
+    "type": "verb"
+  },
+  {
+    "ru": "опять",
+    "en": "again",
+    "type": "adverb"
+  },
+  {
+    "ru": "белый",
+    "en": "white",
+    "type": "adjective"
+  },
+  {
+    "ru": "деньги",
+    "en": "money",
+    "type": "noun"
+  },
+  {
+    "ru": "значить",
+    "en": "to mean",
+    "type": "verb"
+  },
+  {
+    "ru": "про",
+    "en": "about,for",
+    "type": "preposition"
+  },
+  {
+    "ru": "лишь",
+    "en": "only,as soon as",
+    "type": "adverb,conj"
+  },
+  {
+    "ru": "минута",
+    "en": "minute,moment",
+    "type": "noun"
+  },
+  {
+    "ru": "жена",
+    "en": "wife",
+    "type": "noun"
+  },
+  {
+    "ru": "посмотреть",
+    "en": "to take a look,watch,inspect",
+    "type": "verb"
+  },
+  {
+    "ru": "правда",
+    "en": "truth",
+    "type": "noun"
+  },
+  {
+    "ru": "главный",
+    "en": "main,chief",
+    "type": "adjective"
+  },
+  {
+    "ru": "страна",
+    "en": "country",
+    "type": "noun"
+  },
+  {
+    "ru": "свет",
+    "en": "light,world",
+    "type": "noun"
+  },
+  {
+    "ru": "ждать",
+    "en": "to wait",
+    "type": "verb"
+  },
+  {
+    "ru": "мать",
+    "en": "mother",
+    "type": "noun"
+  },
+  {
+    "ru": "будто",
+    "en": "as if,as though",
+    "type": "conjunction"
+  },
+  {
+    "ru": "никогда",
+    "en": "never",
+    "type": "adverb"
+  },
+  {
+    "ru": "товарищ",
+    "en": "comrade,friend",
+    "type": "noun"
+  },
+  {
+    "ru": "дорога",
+    "en": "road,way,journey",
+    "type": "noun"
+  },
+  {
+    "ru": "однако",
+    "en": "however,though",
+    "type": "conjuction,misc"
+  },
+  {
+    "ru": "лежать",
+    "en": "to lie",
+    "type": "verb"
+  },
+  {
+    "ru": "именно",
+    "en": "namely,just",
+    "type": "misc"
+  },
+  {
+    "ru": "окно",
+    "en": "window,window sill",
+    "type": "noun"
+  },
+  {
+    "ru": "никакой",
+    "en": "no,none",
+    "type": "pronoun"
+  },
+  {
+    "ru": "найти",
+    "en": "to find,discover,consider",
+    "type": "verb"
+  },
+  {
+    "ru": "писать",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "ru": "комната",
+    "en": "a room",
+    "type": "noun"
+  },
+  {
+    "ru": "Москва",
+    "en": "Moscow",
+    "type": "noun"
+  },
+  {
+    "ru": "часть",
+    "en": "part,share,department",
+    "type": "noun"
+  },
+  {
+    "ru": "вообще",
+    "en": "in general,altogether,on the whole",
+    "type": "adverb"
+  },
+  {
+    "ru": "книга",
+    "en": "a book",
+    "type": "noun"
+  },
+  {
+    "ru": "маленький",
+    "en": "small,little",
+    "type": "adjective"
+  },
+  {
+    "ru": "улица",
+    "en": "street",
+    "type": "noun"
+  },
+  {
+    "ru": "решить",
+    "en": "to decide,solve",
+    "type": "verb"
+  },
+  {
+    "ru": "далекий",
+    "en": "distant,remote",
+    "type": "adjective"
+  },
+  {
+    "ru": "душа",
+    "en": "soul,spirit",
+    "type": "noun"
+  },
+  {
+    "ru": "чуть",
+    "en": "hardly,slightly",
+    "type": "adverb"
+  },
+  {
+    "ru": "вернуться",
+    "en": "to return",
+    "type": "verb"
+  },
+  {
+    "ru": "утро",
+    "en": "morning",
+    "type": "noun"
+  },
+  {
+    "ru": "некоторый",
+    "en": "some",
+    "type": "pronoun"
+  },
+  {
+    "ru": "считать",
+    "en": "to count",
+    "type": "verb"
+  },
+  {
+    "ru": "сколько",
+    "en": "how much,how many",
+    "type": "cardinal"
+  },
+  {
+    "ru": "помнить",
+    "en": "to remember",
+    "type": "verb"
+  },
+  {
+    "ru": "вечер",
+    "en": "evening",
+    "type": "noun"
+  },
+  {
+    "ru": "пол",
+    "en": "floor,sex",
+    "type": "noun"
+  },
+  {
+    "ru": "таки",
+    "en": "after all",
+    "type": "particle"
+  },
+  {
+    "ru": "получить",
+    "en": "to receive,get,obtain",
+    "type": "verb"
+  },
+  {
+    "ru": "народ",
+    "en": "people,nation",
+    "type": "noun"
+  },
+  {
+    "ru": "плечо",
+    "en": "shoulder,upper arm",
+    "type": "noun"
+  },
+  {
+    "ru": "хоть",
+    "en": "even,if you want,though",
+    "type": "conjunction"
+  },
+  {
+    "ru": "сегодня",
+    "en": "today",
+    "type": "adverb"
+  },
+  {
+    "ru": "бог",
+    "en": "god",
+    "type": "noun"
+  },
+  {
+    "ru": "вместе",
+    "en": "together",
+    "type": "adverb"
+  },
+  {
+    "ru": "взгляд",
+    "en": "look,glance,view",
+    "type": "noun"
+  },
+  {
+    "ru": "ходить",
+    "en": "to walk",
+    "type": "verb"
+  },
+  {
+    "ru": "зачем",
+    "en": "what for,why",
+    "type": "adverb"
+  },
+  {
+    "ru": "советский",
+    "en": "Soviet",
+    "type": "adjective"
+  },
+  {
+    "ru": "русский",
+    "en": "Russian",
+    "type": "adjective"
+  },
+  {
+    "ru": "бывать",
+    "en": "to frequent",
+    "type": "verb"
+  },
+  {
+    "ru": "полный",
+    "en": "full,complete",
+    "type": "adjective"
+  },
+  {
+    "ru": "прийти",
+    "en": "to come,arrive",
+    "type": "verb"
+  },
+  {
+    "ru": "палец",
+    "en": "finger,toe",
+    "type": "noun"
+  },
+  {
+    "ru": "Россия",
+    "en": "Russia",
+    "type": "noun"
+  },
+  {
+    "ru": "любой",
+    "en": "any,everypro",
+    "type": "noun"
+  },
+  {
+    "ru": "история",
+    "en": "history,story,event",
+    "type": "noun"
+  },
+  {
+    "ru": "наконец",
+    "en": "at last,finally",
+    "type": "adverb"
+  },
+  {
+    "ru": "мысль",
+    "en": "thought,idea",
+    "type": "noun"
+  },
+  {
+    "ru": "узнать",
+    "en": "to know,learn,recognize",
+    "type": "verb"
+  },
+  {
+    "ru": "назад",
+    "en": "back,backwards",
+    "type": "adverb"
+  },
+  {
+    "ru": "общий",
+    "en": "general,common",
+    "type": "adjective"
+  },
+  {
+    "ru": "заметить",
+    "en": "to notice,observe",
+    "type": "verb"
+  },
+  {
+    "ru": "словно",
+    "en": "as if,like",
+    "type": "conjunction"
+  },
+  {
+    "ru": "прошлый",
+    "en": "past",
+    "type": "adjective"
+  },
+  {
+    "ru": "уйти",
+    "en": "to leave,go away",
+    "type": "verb"
+  },
+  {
+    "ru": "известный",
+    "en": "well-known,famous",
+    "type": "adjective"
+  },
+  {
+    "ru": "давно",
+    "en": "long ago",
+    "type": "adverb"
+  },
+  {
+    "ru": "слышать",
+    "en": "to hear",
+    "type": "verb"
+  },
+  {
+    "ru": "слушать",
+    "en": "to listen",
+    "type": "verb"
+  },
+  {
+    "ru": "бояться",
+    "en": "to fear",
+    "type": "verb"
+  },
+  {
+    "ru": "сын",
+    "en": "son",
+    "type": "noun"
+  },
+  {
+    "ru": "нельзя",
+    "en": "it is impossible,can't",
+    "type": "predicative"
+  },
+  {
+    "ru": "прямо",
+    "en": "straight,frankly",
+    "type": "adverb"
+  },
+  {
+    "ru": "долго",
+    "en": "for along time",
+    "type": "adverb"
+  },
+  {
+    "ru": "быстро",
+    "en": "fast,quickly",
+    "type": "adverb"
+  },
+  {
+    "ru": "лес",
+    "en": "forest",
+    "type": "noun"
+  },
+  {
+    "ru": "похожий",
+    "en": "similar,alike",
+    "type": "adjective"
+  },
+  {
+    "ru": "пора",
+    "en": "time,season",
+    "type": "noun"
+  },
+  {
+    "ru": "пять",
+    "en": "five",
+    "type": "number"
+  },
+  {
+    "ru": "глядеть",
+    "en": "to look",
+    "type": "verb"
+  },
+  {
+    "ru": "оно",
+    "en": "it",
+    "type": "pronoun"
+  },
+  {
+    "ru": "сесть",
+    "en": "to sit",
+    "type": "verb"
+  },
+  {
+    "ru": "имя",
+    "en": "name",
+    "type": "noun"
+  },
+  {
+    "ru": "ж",
+    "en": "and,as for,but",
+    "type": "misc"
+  },
+  {
+    "ru": "разговор",
+    "en": "talk,conversation",
+    "type": "noun"
+  },
+  {
+    "ru": "тело",
+    "en": "body",
+    "type": "noun"
+  },
+  {
+    "ru": "молодой",
+    "en": "young),bridegroom",
+    "type": "adjective"
+  },
+  {
+    "ru": "стена",
+    "en": "wall",
+    "type": "noun"
+  },
+  {
+    "ru": "красный",
+    "en": "red",
+    "type": "adjective"
+  },
+  {
+    "ru": "читать",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "ru": "право",
+    "en": "right",
+    "type": "noun"
+  },
+  {
+    "ru": "старик",
+    "en": "old man",
+    "type": "noun"
+  },
+  {
+    "ru": "ранний",
+    "en": "early",
+    "type": "adjective"
+  },
+  {
+    "ru": "хотеться",
+    "en": "want,like",
+    "type": "misc (impersonal)"
+  },
+  {
+    "ru": "мама",
+    "en": "mummy,mum",
+    "type": "noun"
+  },
+  {
+    "ru": "оставаться",
+    "en": "to remain",
+    "type": "verb"
+  },
+  {
+    "ru": "высокий",
+    "en": "tall,high",
+    "type": "adjective"
+  },
+  {
+    "ru": "путь",
+    "en": "way,track,path",
+    "type": "noun"
+  },
+  {
+    "ru": "поэтому",
+    "en": "therefore,for that reason,consequently",
+    "type": "adverb"
+  },
+  {
+    "ru": "совершенно",
+    "en": "absolutely,quite",
+    "type": "adverb"
+  },
+  {
+    "ru": "кроме",
+    "en": "except,besides",
+    "type": "preposition"
+  },
+  {
+    "ru": "тысяча",
+    "en": "a thousand",
+    "type": "number"
+  },
+  {
+    "ru": "месяц",
+    "en": "month",
+    "type": "noun"
+  },
+  {
+    "ru": "брать",
+    "en": "to take",
+    "type": "verb"
+  },
+  {
+    "ru": "написать",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "ru": "целый",
+    "en": "intact,whole,entire",
+    "type": "adjective"
+  },
+  {
+    "ru": "огромный",
+    "en": "huge,enormous",
+    "type": "adjective"
+  },
+  {
+    "ru": "начинать",
+    "en": "to begin",
+    "type": "verb"
+  },
+  {
+    "ru": "спина",
+    "en": "back",
+    "type": "noun"
+  },
+  {
+    "ru": "настоящий",
+    "en": "present,real,true",
+    "type": "adjective"
+  },
+  {
+    "ru": "пусть",
+    "en": "let's,though",
+    "type": "conjuction,particle"
+  },
+  {
+    "ru": "язык",
+    "en": "tongue,language",
+    "type": "noun"
+  },
+  {
+    "ru": "точно",
+    "en": "exactly",
+    "type": "adverb"
+  },
+  {
+    "ru": "среди",
+    "en": "among",
+    "type": "preposition"
+  },
+  {
+    "ru": "чувствовать",
+    "en": "to feel",
+    "type": "verb"
+  },
+  {
+    "ru": "сердце",
+    "en": "heart",
+    "type": "noun"
+  },
+  {
+    "ru": "вести",
+    "en": "to lead",
+    "type": "verb"
+  },
+  {
+    "ru": "иногда",
+    "en": "sometimes",
+    "type": "adverb"
+  },
+  {
+    "ru": "мальчик",
+    "en": "boy",
+    "type": "noun"
+  },
+  {
+    "ru": "успеть",
+    "en": "to bein time,be successful",
+    "type": "verb"
+  },
+  {
+    "ru": "небо",
+    "en": "sky",
+    "type": "noun"
+  },
+  {
+    "ru": "живой",
+    "en": "living,live,lively",
+    "type": "adjective"
+  },
+  {
+    "ru": "смерть",
+    "en": "death",
+    "type": "noun"
+  },
+  {
+    "ru": "продолжать",
+    "en": "to continue",
+    "type": "verb"
+  },
+  {
+    "ru": "девушка",
+    "en": "girl,miss",
+    "type": "noun"
+  },
+  {
+    "ru": "образ",
+    "en": "shape,form,image",
+    "type": "noun"
+  },
+  {
+    "ru": "ко",
+    "en": "to,towards,by",
+    "type": "preposition"
+  },
+  {
+    "ru": "забыть",
+    "en": "to forget",
+    "type": "verb"
+  },
+  {
+    "ru": "вокруг",
+    "en": "around",
+    "type": "preposition"
+  },
+  {
+    "ru": "письмо",
+    "en": "letter",
+    "type": "noun"
+  },
+  {
+    "ru": "власть",
+    "en": "power",
+    "type": "noun"
+  },
+  {
+    "ru": "чёрный",
+    "en": "black",
+    "type": "adjective"
+  },
+  {
+    "ru": "пройти",
+    "en": "to pass,go by,be over",
+    "type": "verb"
+  },
+  {
+    "ru": "появиться",
+    "en": "to appear,show up",
+    "type": "verb"
+  },
+  {
+    "ru": "воздух",
+    "en": "air",
+    "type": "noun"
+  },
+  {
+    "ru": "разный",
+    "en": "different",
+    "type": "adjective"
+  },
+  {
+    "ru": "выходить",
+    "en": "to come out",
+    "type": "verb"
+  },
+  {
+    "ru": "просить",
+    "en": "to ask",
+    "type": "verb"
+  },
+  {
+    "ru": "брат",
+    "en": "brother",
+    "type": "noun"
+  },
+  {
+    "ru": "собственный",
+    "en": "one's own",
+    "type": "adjective"
+  },
+  {
+    "ru": "отношение",
+    "en": "relationship,attitude",
+    "type": "noun"
+  },
+  {
+    "ru": "затем",
+    "en": "then,after that",
+    "type": "adverb"
+  },
+  {
+    "ru": "пытаться",
+    "en": "to attempt",
+    "type": "verb"
+  },
+  {
+    "ru": "показать",
+    "en": "to show,display",
+    "type": "verb"
+  },
+  {
+    "ru": "вспомнить",
+    "en": "to remember,recall",
+    "type": "verb"
+  },
+  {
+    "ru": "система",
+    "en": "system",
+    "type": "noun"
+  },
+  {
+    "ru": "четыре",
+    "en": "four",
+    "type": "number"
+  },
+  {
+    "ru": "квартира",
+    "en": "flat,apartment",
+    "type": "noun"
+  },
+  {
+    "ru": "держать",
+    "en": "to hold",
+    "type": "verb"
+  },
+  {
+    "ru": "также",
+    "en": "also,aswell,too",
+    "type": "misc"
+  },
+  {
+    "ru": "любовь",
+    "en": "love",
+    "type": "noun"
+  },
+  {
+    "ru": "солдат",
+    "en": "soldier",
+    "type": "noun"
+  },
+  {
+    "ru": "откуда",
+    "en": "where,from",
+    "type": "adverb"
+  },
+  {
+    "ru": "чтоб",
+    "en": "that,in order that",
+    "type": "misc"
+  },
+  {
+    "ru": "называть",
+    "en": "to call",
+    "type": "verb"
+  },
+  {
+    "ru": "третий",
+    "en": "third",
+    "type": "number"
+  },
+  {
+    "ru": "хозяин",
+    "en": "master,boss,host",
+    "type": "noun"
+  },
+  {
+    "ru": "вроде",
+    "en": "like,not unlike",
+    "type": "preposition,particle"
+  },
+  {
+    "ru": "уходить",
+    "en": "to leave",
+    "type": "verb"
+  },
+  {
+    "ru": "подойти",
+    "en": "to approach,come up",
+    "type": "verb"
+  },
+  {
+    "ru": "поднять",
+    "en": "to lift,raise",
+    "type": "verb"
+  },
+  {
+    "ru": "особенно",
+    "en": "especially,particularly",
+    "type": "adverb"
+  },
+  {
+    "ru": "спрашивать",
+    "en": "to ask",
+    "type": "verb"
+  },
+  {
+    "ru": "начальник",
+    "en": "chief,head,superior",
+    "type": "noun"
+  },
+  {
+    "ru": "оба",
+    "en": "both",
+    "type": "numeral"
+  },
+  {
+    "ru": "бросить",
+    "en": "to throw",
+    "type": "verb"
+  },
+  {
+    "ru": "школа",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "ru": "парень",
+    "en": "boy,fellow,guy",
+    "type": "noun"
+  },
+  {
+    "ru": "кровь",
+    "en": "blood",
+    "type": "noun"
+  },
+  {
+    "ru": "двадцать",
+    "en": "twenty",
+    "type": "number"
+  },
+  {
+    "ru": "солнце",
+    "en": "sun",
+    "type": "noun"
+  },
+  {
+    "ru": "неделя",
+    "en": "week",
+    "type": "noun"
+  },
+  {
+    "ru": "послать",
+    "en": "to send,dispatch",
+    "type": "verb"
+  },
+  {
+    "ru": "находиться",
+    "en": "to be found",
+    "type": "verb"
+  },
+  {
+    "ru": "ребята",
+    "en": "guys,children",
+    "type": "noun"
+  },
+  {
+    "ru": "поставить",
+    "en": "to set in place",
+    "type": "verb"
+  },
+  {
+    "ru": "встать",
+    "en": "to getup,rise,stand up",
+    "type": "verb"
+  },
+  {
+    "ru": "например",
+    "en": "for example,for instance",
+    "type": "misc"
+  },
+  {
+    "ru": "шаг",
+    "en": "step",
+    "type": "noun"
+  },
+  {
+    "ru": "мужчина",
+    "en": "man,male",
+    "type": "noun"
+  },
+  {
+    "ru": "равно",
+    "en": "alike,inlike manner",
+    "type": "adverb"
+  },
+  {
+    "ru": "нос",
+    "en": "nose",
+    "type": "noun"
+  },
+  {
+    "ru": "мало",
+    "en": "little,few",
+    "type": "adverb"
+  },
+  {
+    "ru": "внимание",
+    "en": "attention",
+    "type": "noun"
+  },
+  {
+    "ru": "капитан",
+    "en": "captain,master",
+    "type": "noun"
+  },
+  {
+    "ru": "ухо",
+    "en": "ear",
+    "type": "noun"
+  },
+  {
+    "ru": "туда",
+    "en": "there",
+    "type": "adverb"
+  },
+  {
+    "ru": "сюда",
+    "en": "here",
+    "type": "adverb"
+  },
+  {
+    "ru": "играть",
+    "en": "to play",
+    "type": "verb"
+  },
+  {
+    "ru": "следовать",
+    "en": "to follow",
+    "type": "verb"
+  },
+  {
+    "ru": "рассказать",
+    "en": "to tell,narrate",
+    "type": "verb"
+  },
+  {
+    "ru": "великий",
+    "en": "great",
+    "type": "adjective"
+  },
+  {
+    "ru": "действительно",
+    "en": "indeed,really",
+    "type": "adverb"
+  },
+  {
+    "ru": "слишком",
+    "en": "too,toomuch",
+    "type": "adverb"
+  },
+  {
+    "ru": "тяжёлый",
+    "en": "heavy",
+    "type": "adjective"
+  },
+  {
+    "ru": "спать",
+    "en": "to sleep",
+    "type": "verb"
+  },
+  {
+    "ru": "оставить",
+    "en": "to leave,abandon",
+    "type": "verb"
+  },
+  {
+    "ru": "войти",
+    "en": "to enter,come in",
+    "type": "verb"
+  },
+  {
+    "ru": "длинный",
+    "en": "long",
+    "type": "adjective"
+  },
+  {
+    "ru": "чувство",
+    "en": "feeling",
+    "type": "noun"
+  },
+  {
+    "ru": "молчать",
+    "en": "to keep silent",
+    "type": "verb"
+  },
+  {
+    "ru": "рассказывать",
+    "en": "to tell",
+    "type": "verb"
+  },
+  {
+    "ru": "отвечать",
+    "en": "to answer",
+    "type": "verb"
+  },
+  {
+    "ru": "становиться",
+    "en": "to become",
+    "type": "verb"
+  },
+  {
+    "ru": "остановиться",
+    "en": "to stop",
+    "type": "verb"
+  },
+  {
+    "ru": "берег",
+    "en": "bank,shore,coast",
+    "type": "noun"
+  },
+  {
+    "ru": "семья",
+    "en": "family",
+    "type": "noun"
+  },
+  {
+    "ru": "искать",
+    "en": "to look for",
+    "type": "verb"
+  },
+  {
+    "ru": "генерал",
+    "en": "general",
+    "type": "noun"
+  },
+  {
+    "ru": "момент",
+    "en": "moment,instant",
+    "type": "noun"
+  },
+  {
+    "ru": "десять",
+    "en": "ten",
+    "type": "number"
+  },
+  {
+    "ru": "начать",
+    "en": "to begin",
+    "type": "verb"
+  },
+  {
+    "ru": "следующий",
+    "en": "next,following",
+    "type": "adjective"
+  },
+  {
+    "ru": "личный",
+    "en": "personal",
+    "type": "adjective"
+  },
+  {
+    "ru": "труд",
+    "en": "labour,work",
+    "type": "noun"
+  },
+  {
+    "ru": "верить",
+    "en": "to believe",
+    "type": "verb"
+  },
+  {
+    "ru": "группа",
+    "en": "group",
+    "type": "noun"
+  },
+  {
+    "ru": "немного",
+    "en": "a little",
+    "type": "adverb"
+  },
+  {
+    "ru": "впрочем",
+    "en": "however,though",
+    "type": "conjunction"
+  },
+  {
+    "ru": "видно",
+    "en": "evidently,obviously",
+    "type": "misc"
+  },
+  {
+    "ru": "являться",
+    "en": "to report",
+    "type": "verb"
+  },
+  {
+    "ru": "муж",
+    "en": "husband",
+    "type": "noun"
+  },
+  {
+    "ru": "разве",
+    "en": "really?,perhaps",
+    "type": "particle"
+  },
+  {
+    "ru": "движение",
+    "en": "movement",
+    "type": "noun"
+  },
+  {
+    "ru": "порядок",
+    "en": "order",
+    "type": "noun"
+  },
+  {
+    "ru": "ответ",
+    "en": "answer,reply",
+    "type": "noun"
+  },
+  {
+    "ru": "тихо",
+    "en": "quietly,softly,slowly",
+    "type": "adverb"
+  },
+  {
+    "ru": "знакомый",
+    "en": "familiar,acquainted",
+    "type": "adjective"
+  },
+  {
+    "ru": "газета",
+    "en": "newspaper",
+    "type": "noun"
+  },
+  {
+    "ru": "помощь",
+    "en": "help",
+    "type": "noun"
+  },
+  {
+    "ru": "сильный",
+    "en": "strong,powerful",
+    "type": "adjective"
+  },
+  {
+    "ru": "скорый",
+    "en": "quick,fast",
+    "type": "adjective"
+  },
+  {
+    "ru": "собака",
+    "en": "dog",
+    "type": "noun"
+  },
+  {
+    "ru": "дерево",
+    "en": "tree",
+    "type": "noun"
+  },
+  {
+    "ru": "снег",
+    "en": "snow",
+    "type": "noun"
+  },
+  {
+    "ru": "сон",
+    "en": "dream",
+    "type": "noun"
+  },
+  {
+    "ru": "смысл",
+    "en": "sense,meaning,purpose",
+    "type": "noun"
+  },
+  {
+    "ru": "смочь",
+    "en": "to be able",
+    "type": "verb"
+  },
+  {
+    "ru": "против",
+    "en": "against,opposite,contrary to",
+    "type": "preposition"
+  },
+  {
+    "ru": "бежать",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "ru": "двор",
+    "en": "yard,court",
+    "type": "noun"
+  },
+  {
+    "ru": "форма",
+    "en": "form,shape,uniform",
+    "type": "noun"
+  },
+  {
+    "ru": "простой",
+    "en": "simple,easy,plain",
+    "type": "adjective"
+  },
+  {
+    "ru": "приехать",
+    "en": "to arrive,come",
+    "type": "verb"
+  },
+  {
+    "ru": "иной",
+    "en": "different,other",
+    "type": "pronoun"
+  },
+  {
+    "ru": "кричать",
+    "en": "to cry",
+    "type": "verb"
+  },
+  {
+    "ru": "возможность",
+    "en": "possibility,opportunity,chance",
+    "type": "noun"
+  },
+  {
+    "ru": "общество",
+    "en": "society",
+    "type": "noun"
+  },
+  {
+    "ru": "зеленый",
+    "en": "green",
+    "type": "adjective"
+  },
+  {
+    "ru": "грудь",
+    "en": "breast,chest",
+    "type": "noun"
+  },
+  {
+    "ru": "угол",
+    "en": "corner,angle",
+    "type": "noun"
+  },
+  {
+    "ru": "открыть",
+    "en": "to open",
+    "type": "verb"
+  },
+  {
+    "ru": "происходить",
+    "en": "to take place",
+    "type": "verb"
+  },
+  {
+    "ru": "ладно",
+    "en": "in harmony,well,all right",
+    "type": "adverb"
+  },
+  {
+    "ru": "черный",
+    "en": "black",
+    "type": "adjective,noun"
+  },
+  {
+    "ru": "век",
+    "en": "century,age",
+    "type": "noun"
+  },
+  {
+    "ru": "карман",
+    "en": "pocket",
+    "type": "noun"
+  },
+  {
+    "ru": "ехать",
+    "en": "to go by car",
+    "type": "verb"
+  },
+  {
+    "ru": "немец",
+    "en": "german",
+    "type": "noun"
+  },
+  {
+    "ru": "наверное",
+    "en": "probably,mostlikely",
+    "type": "adverb"
+  },
+  {
+    "ru": "губа",
+    "en": "lip",
+    "type": "noun"
+  },
+  {
+    "ru": "дядя",
+    "en": "uncle",
+    "type": "noun"
+  },
+  {
+    "ru": "приходить",
+    "en": "to come",
+    "type": "verb"
+  },
+  {
+    "ru": "часто",
+    "en": "often",
+    "type": "adverb"
+  },
+  {
+    "ru": "домой",
+    "en": "home as in \"she came home",
+    "type": "adverb"
+  },
+  {
+    "ru": "огонь",
+    "en": "fire",
+    "type": "noun"
+  },
+  {
+    "ru": "писатель",
+    "en": "writer",
+    "type": "noun"
+  },
+  {
+    "ru": "армия",
+    "en": "army",
+    "type": "noun"
+  },
+  {
+    "ru": "состояние",
+    "en": "state,condition,fortune",
+    "type": "noun"
+  },
+  {
+    "ru": "зуб",
+    "en": "tooth",
+    "type": "noun"
+  },
+  {
+    "ru": "очередь",
+    "en": "line,queue,turn",
+    "type": "noun"
+  },
+  {
+    "ru": "кой",
+    "en": "which (old-fashioned,literary)",
+    "type": "pronoun"
+  },
+  {
+    "ru": "подняться",
+    "en": "to rise,climb",
+    "type": "verb"
+  },
+  {
+    "ru": "камень",
+    "en": "stone",
+    "type": "noun"
+  },
+  {
+    "ru": "гость",
+    "en": "guest",
+    "type": "noun"
+  },
+  {
+    "ru": "показаться",
+    "en": "to appear,come in sight",
+    "type": "verb"
+  },
+  {
+    "ru": "ветер",
+    "en": "wind",
+    "type": "noun"
+  },
+  {
+    "ru": "собираться",
+    "en": "to gather",
+    "type": "verb"
+  },
+  {
+    "ru": "попасть",
+    "en": "to hit,to find oneself",
+    "type": "verb"
+  },
+  {
+    "ru": "принять",
+    "en": "to take,admit,accept",
+    "type": "verb"
+  },
+  {
+    "ru": "сначала",
+    "en": "at first,from the beginning",
+    "type": "adverb"
+  },
+  {
+    "ru": "либо",
+    "en": "or",
+    "type": "conjunction"
+  },
+  {
+    "ru": "поехать",
+    "en": "to depart,set off",
+    "type": "verb"
+  },
+  {
+    "ru": "услышать",
+    "en": "to hear",
+    "type": "verb"
+  },
+  {
+    "ru": "уметь",
+    "en": "to be able",
+    "type": "verb"
+  },
+  {
+    "ru": "случиться",
+    "en": "to happen",
+    "type": "verb"
+  },
+  {
+    "ru": "странный",
+    "en": "strange",
+    "type": "adjective"
+  },
+  {
+    "ru": "единственный",
+    "en": "only,sole",
+    "type": "adjective"
+  },
+  {
+    "ru": "рота",
+    "en": "company (military)",
+    "type": "noun"
+  },
+  {
+    "ru": "закон",
+    "en": "law,act,statue",
+    "type": "noun"
+  },
+  {
+    "ru": "короткий",
+    "en": "short",
+    "type": "adjective"
+  },
+  {
+    "ru": "море",
+    "en": "sea",
+    "type": "noun"
+  },
+  {
+    "ru": "добрый",
+    "en": "kind",
+    "type": "adjective"
+  },
+  {
+    "ru": "темный",
+    "en": "dark",
+    "type": "adjective"
+  },
+  {
+    "ru": "гора",
+    "en": "mountain,hill",
+    "type": "noun"
+  },
+  {
+    "ru": "врач",
+    "en": "physician,doctor",
+    "type": "noun"
+  },
+  {
+    "ru": "край",
+    "en": "border,edge,land,country",
+    "type": "noun"
+  },
+  {
+    "ru": "стараться",
+    "en": "to try",
+    "type": "verb"
+  },
+  {
+    "ru": "лучший",
+    "en": "better,best",
+    "type": "adjective"
+  },
+  {
+    "ru": "река",
+    "en": "river",
+    "type": "noun"
+  },
+  {
+    "ru": "военный",
+    "en": "military",
+    "type": "adjective"
+  },
+  {
+    "ru": "мера",
+    "en": "measure,step",
+    "type": "noun"
+  },
+  {
+    "ru": "страшный",
+    "en": "terrible,frightful",
+    "type": "adjective"
+  },
+  {
+    "ru": "вполне",
+    "en": "quite,fully",
+    "type": "adverb"
+  },
+  {
+    "ru": "звать",
+    "en": "to call",
+    "type": "verb"
+  },
+  {
+    "ru": "произойти",
+    "en": "to happen,occur,take place",
+    "type": "verb"
+  },
+  {
+    "ru": "вперед",
+    "en": "forward",
+    "type": "preposition"
+  },
+  {
+    "ru": "медленно",
+    "en": "slowly",
+    "type": "adverb"
+  },
+  {
+    "ru": "возле",
+    "en": "by,near,close by",
+    "type": "preposition"
+  },
+  {
+    "ru": "никак",
+    "en": "in nowway,by no means",
+    "type": "adverb"
+  },
+  {
+    "ru": "заниматься",
+    "en": "to engage with",
+    "type": "verb"
+  },
+  {
+    "ru": "действие",
+    "en": "action,effect",
+    "type": "noun"
+  },
+  {
+    "ru": "довольно",
+    "en": "enough,rather",
+    "type": "adverb"
+  },
+  {
+    "ru": "вещь",
+    "en": "thing",
+    "type": "noun"
+  },
+  {
+    "ru": "необходимый",
+    "en": "necessary",
+    "type": "adjective"
+  },
+  {
+    "ru": "ход",
+    "en": "move",
+    "type": "noun"
+  },
+  {
+    "ru": "боль",
+    "en": "pain",
+    "type": "noun"
+  },
+  {
+    "ru": "судьба",
+    "en": "fate,fortune,destiny",
+    "type": "noun"
+  },
+  {
+    "ru": "причина",
+    "en": "cause,reason,motive",
+    "type": "noun"
+  },
+  {
+    "ru": "положить",
+    "en": "to lay down,put down,place",
+    "type": "verb"
+  },
+  {
+    "ru": "едва",
+    "en": "hardly,just,barely",
+    "type": "adverb"
+  },
+  {
+    "ru": "черта",
+    "en": "line,boundary,trait",
+    "type": "noun"
+  },
+  {
+    "ru": "девочка",
+    "en": "girl,little girl",
+    "type": "noun"
+  },
+  {
+    "ru": "лёгкий",
+    "en": "light,easy",
+    "type": "adjective"
+  },
+  {
+    "ru": "волос",
+    "en": "hair",
+    "type": "noun"
+  },
+  {
+    "ru": "купить",
+    "en": "to buy,purchase",
+    "type": "verb"
+  },
+  {
+    "ru": "номер",
+    "en": "number,size,room,issue",
+    "type": "noun"
+  },
+  {
+    "ru": "основной",
+    "en": "main",
+    "type": "adjective"
+  },
+  {
+    "ru": "широкий",
+    "en": "wide",
+    "type": "adjective"
+  },
+  {
+    "ru": "умереть",
+    "en": "to die",
+    "type": "verb"
+  },
+  {
+    "ru": "далеко",
+    "en": "far,faroff",
+    "type": "adverb"
+  },
+  {
+    "ru": "плохо",
+    "en": "badly",
+    "type": "adverb"
+  },
+  {
+    "ru": "глава",
+    "en": "head,chief",
+    "type": "noun"
+  },
+  {
+    "ru": "красивый",
+    "en": "beautiful",
+    "type": "adjective"
+  },
+  {
+    "ru": "серый",
+    "en": "grey,dull",
+    "type": "adjective"
+  },
+  {
+    "ru": "пить",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "ru": "командир",
+    "en": "commander",
+    "type": "noun"
+  },
+  {
+    "ru": "обычно",
+    "en": "usually",
+    "type": "adverb"
+  },
+  {
+    "ru": "партия",
+    "en": "party",
+    "type": "noun"
+  },
+  {
+    "ru": "проблема",
+    "en": "problem,issue",
+    "type": "noun"
+  },
+  {
+    "ru": "страх",
+    "en": "fear",
+    "type": "noun"
+  },
+  {
+    "ru": "проходить",
+    "en": "to pass",
+    "type": "verb"
+  },
+  {
+    "ru": "ясно",
+    "en": "clear,clearly",
+    "type": "adverb"
+  },
+  {
+    "ru": "снять",
+    "en": "to takeaway,take off,photograph",
+    "type": "verb"
+  },
+  {
+    "ru": "бумага",
+    "en": "paper",
+    "type": "noun"
+  },
+  {
+    "ru": "герой",
+    "en": "hero",
+    "type": "noun"
+  },
+  {
+    "ru": "пара",
+    "en": "pair,couple",
+    "type": "noun"
+  },
+  {
+    "ru": "государство",
+    "en": "state",
+    "type": "noun"
+  },
+  {
+    "ru": "деревня",
+    "en": "village,country",
+    "type": "noun"
+  },
+  {
+    "ru": "речь",
+    "en": "speech",
+    "type": "noun"
+  },
+  {
+    "ru": "начаться",
+    "en": "to begin",
+    "type": "verb"
+  },
+  {
+    "ru": "средство",
+    "en": "means,remedy",
+    "type": "noun"
+  },
+  {
+    "ru": "положение",
+    "en": "position,posture,condition,state",
+    "type": "noun"
+  },
+  {
+    "ru": "связь",
+    "en": "tie,bond,connection,relation",
+    "type": "noun"
+  },
+  {
+    "ru": "скоро",
+    "en": "quickly,fast,soon",
+    "type": "adverb"
+  },
+  {
+    "ru": "небольшой",
+    "en": "small,notgreat",
+    "type": "adjective"
+  },
+  {
+    "ru": "представлять",
+    "en": "to present",
+    "type": "verb"
+  },
+  {
+    "ru": "завтра",
+    "en": "tomorrow",
+    "type": "adverb"
+  },
+  {
+    "ru": "объяснить",
+    "en": "to explain",
+    "type": "verb"
+  },
+  {
+    "ru": "пустой",
+    "en": "empty,hollow,idle",
+    "type": "adjective"
+  },
+  {
+    "ru": "произнести",
+    "en": "to pronounce,say,utter",
+    "type": "verb"
+  },
+  {
+    "ru": "человеческий",
+    "en": "human",
+    "type": "adjective"
+  },
+  {
+    "ru": "нравиться",
+    "en": "to please",
+    "type": "verb"
+  },
+  {
+    "ru": "однажды",
+    "en": "once,oneday",
+    "type": "adverb"
+  },
+  {
+    "ru": "мимо",
+    "en": "past,by",
+    "type": "preposition"
+  },
+  {
+    "ru": "иначе",
+    "en": "otherwise,differently",
+    "type": "adverb"
+  },
+  {
+    "ru": "существовать",
+    "en": "to exist",
+    "type": "verb"
+  },
+  {
+    "ru": "класс",
+    "en": "class",
+    "type": "noun"
+  },
+  {
+    "ru": "удаться",
+    "en": "turn outwell,succeed,manage",
+    "type": "verb"
+  },
+  {
+    "ru": "толстый",
+    "en": "thick,heavy,fat",
+    "type": "adjective"
+  },
+  {
+    "ru": "цель",
+    "en": "goal,object,target",
+    "type": "noun"
+  },
+  {
+    "ru": "сквозь",
+    "en": "through",
+    "type": "preposition"
+  },
+  {
+    "ru": "прийтись",
+    "en": "to fit,fall,have to",
+    "type": "verb"
+  },
+  {
+    "ru": "чистый",
+    "en": "clean,pure",
+    "type": "adjective"
+  },
+  {
+    "ru": "прежний",
+    "en": "former",
+    "type": "adjective"
+  },
+  {
+    "ru": "профессор",
+    "en": "professor",
+    "type": "noun"
+  },
+  {
+    "ru": "господин",
+    "en": "gentleman,Mr",
+    "type": "noun"
+  },
+  {
+    "ru": "счастье",
+    "en": "happiness,luck",
+    "type": "noun"
+  },
+  {
+    "ru": "худой",
+    "en": "thin,skinny",
+    "type": "adjective"
+  },
+  {
+    "ru": "дух",
+    "en": "spirit",
+    "type": "noun"
+  },
+  {
+    "ru": "план",
+    "en": "plan",
+    "type": "noun"
+  },
+  {
+    "ru": "чужой",
+    "en": "somebody else's,strange,foreign",
+    "type": "adjective"
+  },
+  {
+    "ru": "зал",
+    "en": "hall",
+    "type": "noun"
+  },
+  {
+    "ru": "представить",
+    "en": "to present,produce,introduce",
+    "type": "verb"
+  },
+  {
+    "ru": "особый",
+    "en": "special",
+    "type": "adjective"
+  },
+  {
+    "ru": "директор",
+    "en": "director,manager",
+    "type": "noun"
+  },
+  {
+    "ru": "бывший",
+    "en": "former,ex",
+    "type": "adjective"
+  },
+  {
+    "ru": "память",
+    "en": "memory",
+    "type": "noun"
+  },
+  {
+    "ru": "близкий",
+    "en": "near,similar,intimate",
+    "type": "adjective"
+  },
+  {
+    "ru": "сей",
+    "en": "this",
+    "type": "pronoun"
+  },
+  {
+    "ru": "результат",
+    "en": "result,outcome",
+    "type": "noun"
+  },
+  {
+    "ru": "больной",
+    "en": "sick",
+    "type": "adjective"
+  },
+  {
+    "ru": "данный",
+    "en": "given,present",
+    "type": "adjective"
+  },
+  {
+    "ru": "кстати",
+    "en": "to the point,at the same time",
+    "type": "adverb"
+  },
+  {
+    "ru": "назвать",
+    "en": "to call,name",
+    "type": "verb"
+  },
+  {
+    "ru": "след",
+    "en": "track,footprint",
+    "type": "noun"
+  },
+  {
+    "ru": "улыбаться",
+    "en": "to smile",
+    "type": "verb"
+  },
+  {
+    "ru": "бутылка",
+    "en": "bottle",
+    "type": "noun"
+  },
+  {
+    "ru": "трудно",
+    "en": "with difficulty",
+    "type": "adverb"
+  },
+  {
+    "ru": "условие",
+    "en": "condition,term",
+    "type": "noun"
+  },
+  {
+    "ru": "прежде",
+    "en": "before",
+    "type": "preposition"
+  },
+  {
+    "ru": "ум",
+    "en": "mind,brains,intellect",
+    "type": "noun"
+  },
+  {
+    "ru": "улыбнуться",
+    "en": "to smile",
+    "type": "verb"
+  },
+  {
+    "ru": "процесс",
+    "en": "process",
+    "type": "noun"
+  },
+  {
+    "ru": "картина",
+    "en": "picture,painting",
+    "type": "noun"
+  },
+  {
+    "ru": "вместо",
+    "en": "instead",
+    "type": "preposition"
+  },
+  {
+    "ru": "старший",
+    "en": "elder,senior",
+    "type": "adjective"
+  },
+  {
+    "ru": "легко",
+    "en": "easily,lightly",
+    "type": "adverb"
+  },
+  {
+    "ru": "центр",
+    "en": "center",
+    "type": "noun"
+  },
+  {
+    "ru": "подобный",
+    "en": "similar,like",
+    "type": "adjective"
+  },
+  {
+    "ru": "возможно",
+    "en": "as,as possible,as soon as",
+    "type": "adjective"
+  },
+  {
+    "ru": "около",
+    "en": "by,near",
+    "type": "preposition"
+  },
+  {
+    "ru": "смеяться",
+    "en": "to laugh",
+    "type": "verb"
+  },
+  {
+    "ru": "сто",
+    "en": "hundred",
+    "type": "number"
+  },
+  {
+    "ru": "будущее",
+    "en": "future",
+    "type": "noun"
+  },
+  {
+    "ru": "хватать",
+    "en": "to grasp",
+    "type": "verb"
+  },
+  {
+    "ru": "число",
+    "en": "number",
+    "type": "noun"
+  },
+  {
+    "ru": "всякое",
+    "en": "any,every",
+    "type": "pronoun"
+  },
+  {
+    "ru": "рубль",
+    "en": "ruble",
+    "type": "noun"
+  },
+  {
+    "ru": "почувствовать",
+    "en": "to feel",
+    "type": "verb"
+  },
+  {
+    "ru": "принести",
+    "en": "to bring",
+    "type": "verb"
+  },
+  {
+    "ru": "вера",
+    "en": "faith,belief",
+    "type": "noun"
+  },
+  {
+    "ru": "вовсе",
+    "en": "quiet,not at all",
+    "type": "adverb"
+  },
+  {
+    "ru": "удар",
+    "en": "blow,stroke",
+    "type": "noun"
+  },
+  {
+    "ru": "телефон",
+    "en": "telephone",
+    "type": "noun"
+  },
+  {
+    "ru": "колено",
+    "en": "knee",
+    "type": "noun"
+  },
+  {
+    "ru": "согласиться",
+    "en": "to agree,consent",
+    "type": "verb"
+  },
+  {
+    "ru": "коридор",
+    "en": "corridor,passage",
+    "type": "noun"
+  },
+  {
+    "ru": "мужик",
+    "en": "muzhik,man",
+    "type": "noun"
+  },
+  {
+    "ru": "правый",
+    "en": "right",
+    "type": "adjective"
+  },
+  {
+    "ru": "автор",
+    "en": "author",
+    "type": "noun"
+  },
+  {
+    "ru": "холодный",
+    "en": "cold,cool",
+    "type": "adjective"
+  },
+  {
+    "ru": "хватить",
+    "en": "to snatch,seize,suffice",
+    "type": "verb"
+  },
+  {
+    "ru": "многие",
+    "en": "many",
+    "type": "pronoun"
+  },
+  {
+    "ru": "встреча",
+    "en": "meeting,reception",
+    "type": "noun"
+  },
+  {
+    "ru": "кабинет",
+    "en": "study,room,office suite",
+    "type": "noun"
+  },
+  {
+    "ru": "документ",
+    "en": "document",
+    "type": "noun"
+  },
+  {
+    "ru": "самолет",
+    "en": "aircraft,aeroplane",
+    "type": "noun"
+  },
+  {
+    "ru": "вниз",
+    "en": "down,downwards",
+    "type": "adverb"
+  },
+  {
+    "ru": "принимать",
+    "en": "to receive",
+    "type": "verb"
+  },
+  {
+    "ru": "игра",
+    "en": "game,play",
+    "type": "noun"
+  },
+  {
+    "ru": "рассказ",
+    "en": "story",
+    "type": "noun"
+  },
+  {
+    "ru": "хлеб",
+    "en": "bread",
+    "type": "noun"
+  },
+  {
+    "ru": "развитие",
+    "en": "development",
+    "type": "noun"
+  },
+  {
+    "ru": "убить",
+    "en": "to kill",
+    "type": "verb"
+  },
+  {
+    "ru": "родной",
+    "en": "own,native,dear",
+    "type": "adjective"
+  },
+  {
+    "ru": "открытый",
+    "en": "open",
+    "type": "adjective"
+  },
+  {
+    "ru": "менее",
+    "en": "less",
+    "type": "adverb"
+  },
+  {
+    "ru": "предложить",
+    "en": "to offer,propose,suggest",
+    "type": "verb"
+  },
+  {
+    "ru": "желтый",
+    "en": "yellow",
+    "type": "adjective"
+  },
+  {
+    "ru": "приходиться",
+    "en": "to fall",
+    "type": "verb"
+  },
+  {
+    "ru": "выпить",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "ru": "крикнуть",
+    "en": "to cry,shout",
+    "type": "verb"
+  },
+  {
+    "ru": "трубка",
+    "en": "tube,roll,pipe",
+    "type": "noun"
+  },
+  {
+    "ru": "враг",
+    "en": "enemy",
+    "type": "noun"
+  },
+  {
+    "ru": "показывать",
+    "en": "to show",
+    "type": "verb"
+  },
+  {
+    "ru": "двое",
+    "en": "two",
+    "type": "number"
+  },
+  {
+    "ru": "доктор",
+    "en": "doctor",
+    "type": "noun"
+  },
+  {
+    "ru": "ладонь",
+    "en": "palm",
+    "type": "noun"
+  },
+  {
+    "ru": "вызвать",
+    "en": "to call,send",
+    "type": "verb"
+  },
+  {
+    "ru": "спокойно",
+    "en": "quietly",
+    "type": "adverb"
+  },
+  {
+    "ru": "попросить",
+    "en": "to ask",
+    "type": "verb"
+  },
+  {
+    "ru": "наука",
+    "en": "science",
+    "type": "noun"
+  },
+  {
+    "ru": "лейтенант",
+    "en": "lieutenant",
+    "type": "noun"
+  },
+  {
+    "ru": "служба",
+    "en": "service,work",
+    "type": "noun"
+  },
+  {
+    "ru": "оказываться",
+    "en": "to turn out",
+    "type": "verb"
+  },
+  {
+    "ru": "привести",
+    "en": "to bring",
+    "type": "verb"
+  },
+  {
+    "ru": "сорок",
+    "en": "forty",
+    "type": "number"
+  },
+  {
+    "ru": "счет",
+    "en": "bill,account",
+    "type": "noun"
+  },
+  {
+    "ru": "возвращаться",
+    "en": "to return",
+    "type": "verb"
+  },
+  {
+    "ru": "золотой",
+    "en": "golden",
+    "type": "adjective"
+  },
+  {
+    "ru": "местный",
+    "en": "local",
+    "type": "adjective"
+  },
+  {
+    "ru": "кухня",
+    "en": "kitchen",
+    "type": "noun"
+  },
+  {
+    "ru": "крупный",
+    "en": "large,big,prominent",
+    "type": "adjective"
+  },
+  {
+    "ru": "решение",
+    "en": "decision,conclusion",
+    "type": "noun"
+  },
+  {
+    "ru": "молодая",
+    "en": "bride,young",
+    "type": "adjective"
+  },
+  {
+    "ru": "тридцать",
+    "en": "thirty",
+    "type": "number"
+  },
+  {
+    "ru": "роман",
+    "en": "novel,romance",
+    "type": "noun"
+  },
+  {
+    "ru": "требовать",
+    "en": "to demand",
+    "type": "verb"
+  },
+  {
+    "ru": "компания",
+    "en": "company",
+    "type": "noun"
+  },
+  {
+    "ru": "частый",
+    "en": "frequent",
+    "type": "adjective"
+  },
+  {
+    "ru": "российский",
+    "en": "Russian",
+    "type": "adjective"
+  },
+  {
+    "ru": "рабочий",
+    "en": "working",
+    "type": "adjective"
+  },
+  {
+    "ru": "потерять",
+    "en": "to lose",
+    "type": "verb"
+  },
+  {
+    "ru": "течение",
+    "en": "current",
+    "type": "noun"
+  },
+  {
+    "ru": "синий",
+    "en": "dark blue",
+    "type": "adjective"
+  },
+  {
+    "ru": "столько",
+    "en": "so much,so many",
+    "type": "adverb"
+  },
+  {
+    "ru": "теплый",
+    "en": "warm",
+    "type": "adjective"
+  },
+  {
+    "ru": "метр",
+    "en": "meter,metre",
+    "type": "noun"
+  },
+  {
+    "ru": "достать",
+    "en": "to reach,get,obtain",
+    "type": "verb"
+  },
+  {
+    "ru": "железный",
+    "en": "ferreous,iron",
+    "type": "adjective"
+  },
+  {
+    "ru": "институт",
+    "en": "institute",
+    "type": "noun"
+  },
+  {
+    "ru": "сообщить",
+    "en": "to report,let know",
+    "type": "verb"
+  },
+  {
+    "ru": "интерес",
+    "en": "interes",
+    "type": "noun"
+  },
+  {
+    "ru": "обычный",
+    "en": "usual,ordinary",
+    "type": "adjective"
+  },
+  {
+    "ru": "появляться",
+    "en": "to appear",
+    "type": "verb"
+  },
+  {
+    "ru": "упасть",
+    "en": "to fall",
+    "type": "verb"
+  },
+  {
+    "ru": "остальной",
+    "en": "remaining,therest of",
+    "type": "adjective"
+  },
+  {
+    "ru": "половина",
+    "en": "half",
+    "type": "noun"
+  },
+  {
+    "ru": "московский",
+    "en": "Moscow",
+    "type": "adjective"
+  },
+  {
+    "ru": "шесть",
+    "en": "six",
+    "type": "number"
+  },
+  {
+    "ru": "получиться",
+    "en": "to come,arrive,turn out",
+    "type": "verb"
+  },
+  {
+    "ru": "качество",
+    "en": "quality",
+    "type": "noun"
+  },
+  {
+    "ru": "бой",
+    "en": "battle,fight,combat",
+    "type": "noun"
+  },
+  {
+    "ru": "шея",
+    "en": "neck",
+    "type": "noun"
+  },
+  {
+    "ru": "вон",
+    "en": "out",
+    "type": "adverb"
+  },
+  {
+    "ru": "идея",
+    "en": "idea",
+    "type": "noun"
+  },
+  {
+    "ru": "видимо",
+    "en": "apparently,seemingly",
+    "type": "adverb"
+  },
+  {
+    "ru": "достаточно",
+    "en": "enough,sufficiently",
+    "type": "adverb"
+  },
+  {
+    "ru": "провести",
+    "en": "to accompany,set off,conduct,spend",
+    "type": "verb"
+  },
+  {
+    "ru": "важный",
+    "en": "important",
+    "type": "adjective"
+  },
+  {
+    "ru": "трава",
+    "en": "grass",
+    "type": "noun"
+  },
+  {
+    "ru": "дед",
+    "en": "grandfather,oldman",
+    "type": "noun"
+  },
+  {
+    "ru": "сознание",
+    "en": "consciousness",
+    "type": "noun"
+  },
+  {
+    "ru": "родитель",
+    "en": "parent",
+    "type": "noun"
+  },
+  {
+    "ru": "простить",
+    "en": "to forgive",
+    "type": "verb"
+  },
+  {
+    "ru": "бить",
+    "en": "to beat,hit",
+    "type": "verb"
+  },
+  {
+    "ru": "чай",
+    "en": "tea",
+    "type": "noun"
+  },
+  {
+    "ru": "поздний",
+    "en": "late",
+    "type": "adjective"
+  },
+  {
+    "ru": "кивнуть",
+    "en": "to nod",
+    "type": "verb"
+  },
+  {
+    "ru": "род",
+    "en": "family,clan,generation",
+    "type": "noun"
+  },
+  {
+    "ru": "исчезнуть",
+    "en": "to disappear",
+    "type": "verb"
+  },
+  {
+    "ru": "тонкий",
+    "en": "thin",
+    "type": "adjective"
+  },
+  {
+    "ru": "немецкий",
+    "en": "german",
+    "type": "adjective"
+  },
+  {
+    "ru": "звук",
+    "en": "sound",
+    "type": "noun"
+  },
+  {
+    "ru": "отдать",
+    "en": "to return,give back",
+    "type": "verb"
+  },
+  {
+    "ru": "магазин",
+    "en": "shop,store",
+    "type": "noun"
+  },
+  {
+    "ru": "президент",
+    "en": "president,director",
+    "type": "noun"
+  },
+  {
+    "ru": "поэт",
+    "en": "poet",
+    "type": "noun"
+  },
+  {
+    "ru": "спасибо",
+    "en": "gratitude,thanks",
+    "type": "noun"
+  },
+  {
+    "ru": "болезнь",
+    "en": "illness,sickness,disease",
+    "type": "noun"
+  },
+  {
+    "ru": "событие",
+    "en": "event",
+    "type": "noun"
+  },
+  {
+    "ru": "помочь",
+    "en": "to help",
+    "type": "verb"
+  },
+  {
+    "ru": "кожа",
+    "en": "skin",
+    "type": "noun"
+  },
+  {
+    "ru": "лист",
+    "en": "leaf,sheet",
+    "type": "noun"
+  },
+  {
+    "ru": "слать",
+    "en": "to send",
+    "type": "verb"
+  },
+  {
+    "ru": "вспоминать",
+    "en": "to recall",
+    "type": "verb"
+  },
+  {
+    "ru": "прекрасный",
+    "en": "beautiful,fine",
+    "type": "adjective"
+  },
+  {
+    "ru": "слеза",
+    "en": "tear",
+    "type": "noun"
+  },
+  {
+    "ru": "надежда",
+    "en": "hope",
+    "type": "noun"
+  },
+  {
+    "ru": "молча",
+    "en": "silently,without a word",
+    "type": "adverb"
+  },
+  {
+    "ru": "сильно",
+    "en": "strongly",
+    "type": "adverb"
+  },
+  {
+    "ru": "верный",
+    "en": "correct,faithful,reliable",
+    "type": "adjective"
+  },
+  {
+    "ru": "литература",
+    "en": "literature",
+    "type": "noun"
+  },
+  {
+    "ru": "оружие",
+    "en": "weapon",
+    "type": "noun"
+  },
+  {
+    "ru": "готовый",
+    "en": "ready",
+    "type": "adjective"
+  },
+  {
+    "ru": "запах",
+    "en": "smell,odour,scent",
+    "type": "noun"
+  },
+  {
+    "ru": "неожиданно",
+    "en": "unexpectedly,suddenly",
+    "type": "adverb"
+  },
+  {
+    "ru": "вчера",
+    "en": "yesterday",
+    "type": "adverb"
+  },
+  {
+    "ru": "вздохнуть",
+    "en": "to takebreath,to sigh",
+    "type": "verb"
+  },
+  {
+    "ru": "роль",
+    "en": "role",
+    "type": "noun"
+  },
+  {
+    "ru": "рост",
+    "en": "growth,increase,height",
+    "type": "noun"
+  },
+  {
+    "ru": "природа",
+    "en": "nature",
+    "type": "noun"
+  },
+  {
+    "ru": "политический",
+    "en": "political",
+    "type": "adjective"
+  },
+  {
+    "ru": "точка",
+    "en": "dot,point",
+    "type": "noun"
+  },
+  {
+    "ru": "звезда",
+    "en": "star",
+    "type": "noun"
+  },
+  {
+    "ru": "петь",
+    "en": "to sing",
+    "type": "verb"
+  },
+  {
+    "ru": "садиться",
+    "en": "to sit down",
+    "type": "verb"
+  },
+  {
+    "ru": "фамилия",
+    "en": "surname",
+    "type": "noun"
+  },
+  {
+    "ru": "характер",
+    "en": "character,disposition,temper",
+    "type": "noun"
+  },
+  {
+    "ru": "пожалуйста",
+    "en": "please",
+    "type": "misc"
+  },
+  {
+    "ru": "выше",
+    "en": "higher",
+    "type": "adverb"
+  },
+  {
+    "ru": "офицер",
+    "en": "officer",
+    "type": "noun"
+  },
+  {
+    "ru": "толпа",
+    "en": "crowd",
+    "type": "noun"
+  },
+  {
+    "ru": "перестать",
+    "en": "to stop,cease",
+    "type": "verb"
+  },
+  {
+    "ru": "придтись",
+    "en": "to fit,fall,have to",
+    "type": "verb"
+  },
+  {
+    "ru": "уровень",
+    "en": "level",
+    "type": "noun"
+  },
+  {
+    "ru": "неизвестный",
+    "en": "unknown",
+    "type": "adjective"
+  },
+  {
+    "ru": "кресло",
+    "en": "armchair",
+    "type": "noun"
+  },
+  {
+    "ru": "баба",
+    "en": "woman,old woman",
+    "type": "noun"
+  },
+  {
+    "ru": "секунда",
+    "en": "a second",
+    "type": "noun"
+  },
+  {
+    "ru": "пожаловать",
+    "en": "to grant,bestow",
+    "type": "verb"
+  },
+  {
+    "ru": "банк",
+    "en": "bank",
+    "type": "noun"
+  },
+  {
+    "ru": "опыт",
+    "en": "experience",
+    "type": "noun"
+  },
+  {
+    "ru": "тихий",
+    "en": "quiet,low,scelent",
+    "type": "adjective"
+  },
+  {
+    "ru": "поскольку",
+    "en": "so faras,since",
+    "type": "misc"
+  },
+  {
+    "ru": "сапог",
+    "en": "high",
+    "type": "bootnoun"
+  },
+  {
+    "ru": "правило",
+    "en": "rule",
+    "type": "noun"
+  },
+  {
+    "ru": "стекло",
+    "en": "glass",
+    "type": "noun"
+  },
+  {
+    "ru": "получать",
+    "en": "to receive",
+    "type": "verb"
+  },
+  {
+    "ru": "внутренний",
+    "en": "inside,internal",
+    "type": "adjective"
+  },
+  {
+    "ru": "дочь",
+    "en": "daughter",
+    "type": "noun"
+  },
+  {
+    "ru": "называться",
+    "en": "to be called",
+    "type": "verb"
+  },
+  {
+    "ru": "надеяться",
+    "en": "to hope",
+    "type": "verb"
+  },
+  {
+    "ru": "член",
+    "en": "member,limb",
+    "type": "noun"
+  },
+  {
+    "ru": "протянуть",
+    "en": "to stretch,extend",
+    "type": "verb"
+  },
+  {
+    "ru": "государственный",
+    "en": "State",
+    "type": "adjective"
+  },
+  {
+    "ru": "десяток",
+    "en": "ten,dozens",
+    "type": "noun"
+  },
+  {
+    "ru": "глубокий",
+    "en": "deep",
+    "type": "adjective"
+  },
+  {
+    "ru": "цветок",
+    "en": "flower",
+    "type": "noun"
+  },
+  {
+    "ru": "ах",
+    "en": "ah!,oh!",
+    "type": "misc"
+  },
+  {
+    "ru": "желание",
+    "en": "wish",
+    "type": "noun"
+  },
+  {
+    "ru": "дождь",
+    "en": "rain",
+    "type": "noun"
+  },
+  {
+    "ru": "впереди",
+    "en": "before,infront of preposition",
+    "type": "adverb"
+  },
+  {
+    "ru": "подходить",
+    "en": "to fit",
+    "type": "verb"
+  },
+  {
+    "ru": "лоб",
+    "en": "forehead",
+    "type": "noun"
+  },
+  {
+    "ru": "улыбка",
+    "en": "smile",
+    "type": "noun"
+  },
+  {
+    "ru": "борьба",
+    "en": "fight,struggle",
+    "type": "noun"
+  },
+  {
+    "ru": "ворот",
+    "en": "collar",
+    "type": "noun"
+  },
+  {
+    "ru": "ящик",
+    "en": "box,case",
+    "type": "noun"
+  },
+  {
+    "ru": "этаж",
+    "en": "floor,storey",
+    "type": "noun"
+  },
+  {
+    "ru": "служить",
+    "en": "to serve",
+    "type": "verb"
+  },
+  {
+    "ru": "вновь",
+    "en": "again,once more",
+    "type": "adverb"
+  },
+  {
+    "ru": "голубой",
+    "en": "blue,sky-blue",
+    "type": "adjective"
+  },
+  {
+    "ru": "нечего",
+    "en": "there is nothing,there is no need",
+    "type": "pronoun"
+  },
+  {
+    "ru": "революция",
+    "en": "revolution",
+    "type": "noun"
+  },
+  {
+    "ru": "впервые",
+    "en": "for thefirst time",
+    "type": "adverb"
+  },
+  {
+    "ru": "сосед",
+    "en": "neighbour",
+    "type": "noun"
+  },
+  {
+    "ru": "сестра",
+    "en": "sister",
+    "type": "noun"
+  },
+  {
+    "ru": "долгий",
+    "en": "long",
+    "type": "adjective"
+  },
+  {
+    "ru": "чей",
+    "en": "whose pronoun",
+    "type": ""
+  },
+  {
+    "ru": "поверить",
+    "en": "to believe",
+    "type": "verb"
+  },
+  {
+    "ru": "ситуация",
+    "en": "situation",
+    "type": "noun"
+  },
+  {
+    "ru": "взглянуть",
+    "en": "to look,give a glance",
+    "type": "verb"
+  },
+  {
+    "ru": "слабый",
+    "en": "weak",
+    "type": "adjective"
+  },
+  {
+    "ru": "количество",
+    "en": "quantity",
+    "type": "noun"
+  },
+  {
+    "ru": "вызывать",
+    "en": "to call",
+    "type": "verb"
+  },
+  {
+    "ru": "уверенный",
+    "en": "confident,sure",
+    "type": "adjective"
+  },
+  {
+    "ru": "выход",
+    "en": "exit",
+    "type": "noun"
+  },
+  {
+    "ru": "совет",
+    "en": "advice",
+    "type": "noun"
+  },
+  {
+    "ru": "дурак",
+    "en": "fool,idiot",
+    "type": "noun"
+  },
+  {
+    "ru": "любимый",
+    "en": "dear,loved",
+    "type": "adjective"
+  },
+  {
+    "ru": "союз",
+    "en": "union,alliance,conjunction",
+    "type": "noun"
+  },
+  {
+    "ru": "лето",
+    "en": "summer",
+    "type": "noun"
+  },
+  {
+    "ru": "ожидать",
+    "en": "to expect",
+    "type": "verb"
+  },
+  {
+    "ru": "пришлый",
+    "en": "alien,strange",
+    "type": "adjective"
+  },
+  {
+    "ru": "висеть",
+    "en": "to hang",
+    "type": "verb"
+  },
+  {
+    "ru": "граница",
+    "en": "border",
+    "type": "noun"
+  },
+  {
+    "ru": "цвет",
+    "en": "colour,color",
+    "type": "noun"
+  },
+  {
+    "ru": "серьезный",
+    "en": "serious",
+    "type": "adjective"
+  },
+  {
+    "ru": "создать",
+    "en": "to create,establish",
+    "type": "verb"
+  },
+  {
+    "ru": "интересно",
+    "en": "interestingly",
+    "type": "adverb"
+  },
+  {
+    "ru": "свобода",
+    "en": "freedom",
+    "type": "noun"
+  },
+  {
+    "ru": "зато",
+    "en": "but,butthen",
+    "type": "conjunction"
+  },
+  {
+    "ru": "стул",
+    "en": "chair",
+    "type": "noun"
+  },
+  {
+    "ru": "уехать",
+    "en": "to leave,depart",
+    "type": "verb"
+  },
+  {
+    "ru": "поезд",
+    "en": "train",
+    "type": "noun"
+  },
+  {
+    "ru": "музыка",
+    "en": "music",
+    "type": "noun"
+  },
+  {
+    "ru": "быстрый",
+    "en": "quick,fast",
+    "type": "adjective"
+  },
+  {
+    "ru": "тень",
+    "en": "shadow",
+    "type": "noun"
+  },
+  {
+    "ru": "лошадь",
+    "en": "horse",
+    "type": "noun"
+  },
+  {
+    "ru": "поле",
+    "en": "field",
+    "type": "noun"
+  },
+  {
+    "ru": "выглядеть",
+    "en": "to look like",
+    "type": "verb"
+  },
+  {
+    "ru": "учиться",
+    "en": "to learn",
+    "type": "verb"
+  },
+  {
+    "ru": "левый",
+    "en": "left",
+    "type": "adjective"
+  },
+  {
+    "ru": "разговаривать",
+    "en": "to converse",
+    "type": "verb"
+  },
+  {
+    "ru": "детский",
+    "en": "child's,children's",
+    "type": "adjective"
+  },
+  {
+    "ru": "тип",
+    "en": "type,model",
+    "type": "noun"
+  },
+  {
+    "ru": "суд",
+    "en": "court,law-court",
+    "type": "noun"
+  },
+  {
+    "ru": "связанный",
+    "en": "related,connected,tied-up",
+    "type": "adjective"
+  },
+  {
+    "ru": "горячий",
+    "en": "hot",
+    "type": "adjective"
+  },
+  {
+    "ru": "площадь",
+    "en": "square,area",
+    "type": "noun"
+  },
+  {
+    "ru": "помогать",
+    "en": "to help",
+    "type": "verb"
+  },
+  {
+    "ru": "счастливый",
+    "en": "happy",
+    "type": "adjective"
+  },
+  {
+    "ru": "повернуться",
+    "en": "to turn",
+    "type": "verb"
+  },
+  {
+    "ru": "позволить",
+    "en": "to allow,permit",
+    "type": "verb"
+  },
+  {
+    "ru": "встретить",
+    "en": "to meet",
+    "type": "verb"
+  },
+  {
+    "ru": "радость",
+    "en": "gladness,joy",
+    "type": "noun"
+  },
+  {
+    "ru": "острый",
+    "en": "sharp,spicy",
+    "type": "adjective"
+  },
+  {
+    "ru": "возраст",
+    "en": "age",
+    "type": "noun"
+  },
+  {
+    "ru": "орган",
+    "en": "organ,body",
+    "type": "noun"
+  },
+  {
+    "ru": "карта",
+    "en": "map",
+    "type": "noun"
+  },
+  {
+    "ru": "входить",
+    "en": "to enter",
+    "type": "verb"
+  },
+  {
+    "ru": "обнаружить",
+    "en": "to discover,find out",
+    "type": "verb"
+  },
+  {
+    "ru": "король",
+    "en": "king",
+    "type": "noun"
+  },
+  {
+    "ru": "слава",
+    "en": "glory,fame",
+    "type": "noun"
+  },
+  {
+    "ru": "полковник",
+    "en": "colonel",
+    "type": "noun"
+  },
+  {
+    "ru": "мелкий",
+    "en": "shallow,small",
+    "type": "adjective"
+  },
+  {
+    "ru": "бок",
+    "en": "side,flank",
+    "type": "noun"
+  },
+  {
+    "ru": "цена",
+    "en": "price",
+    "type": "noun"
+  },
+  {
+    "ru": "информация",
+    "en": "information",
+    "type": "noun"
+  },
+  {
+    "ru": "мозг",
+    "en": "brain",
+    "type": "noun"
+  },
+  {
+    "ru": "удовольствие",
+    "en": "pleasure",
+    "type": "noun"
+  },
+  {
+    "ru": "воля",
+    "en": "will",
+    "type": "noun"
+  },
+  {
+    "ru": "область",
+    "en": "oblast,province,field",
+    "type": "noun"
+  },
+  {
+    "ru": "крыша",
+    "en": "roof",
+    "type": "noun"
+  },
+  {
+    "ru": "нести",
+    "en": "to carry",
+    "type": "verb"
+  },
+  {
+    "ru": "обратно",
+    "en": "back,backwards",
+    "type": "adverb"
+  },
+  {
+    "ru": "современный",
+    "en": "contemporary,modern,up-to-date",
+    "type": "adjective"
+  },
+  {
+    "ru": "дама",
+    "en": "lady,partner,queen",
+    "type": "noun"
+  },
+  {
+    "ru": "семь",
+    "en": "seven",
+    "type": "number"
+  },
+  {
+    "ru": "веселый",
+    "en": "cheerful,merry",
+    "type": "adjective"
+  },
+  {
+    "ru": "прислать",
+    "en": "to send",
+    "type": "verb"
+  },
+  {
+    "ru": "сад",
+    "en": "garden,yard",
+    "type": "noun"
+  },
+  {
+    "ru": "правительство",
+    "en": "government",
+    "type": "noun"
+  },
+  {
+    "ru": "милый",
+    "en": "nice,sweet,dear",
+    "type": "adjective"
+  },
+  {
+    "ru": "относиться",
+    "en": "to date from",
+    "type": "verb"
+  },
+  {
+    "ru": "возникать",
+    "en": "to arise",
+    "type": "verb"
+  },
+  {
+    "ru": "мол",
+    "en": "he says,they say,etc..",
+    "type": "misc"
+  },
+  {
+    "ru": "повторить",
+    "en": "to repeat",
+    "type": "verb"
+  },
+  {
+    "ru": "название",
+    "en": "name,title",
+    "type": "noun"
+  },
+  {
+    "ru": "средний",
+    "en": "average,middle",
+    "type": "adjective"
+  },
+  {
+    "ru": "пример",
+    "en": "example",
+    "type": "noun"
+  },
+  {
+    "ru": "невозможно",
+    "en": "impossible",
+    "type": "adverb"
+  },
+  {
+    "ru": "зеркало",
+    "en": "mirror",
+    "type": "noun"
+  },
+  {
+    "ru": "погибнуть",
+    "en": "to perish,be killed",
+    "type": "verb"
+  },
+  {
+    "ru": "американский",
+    "en": "american",
+    "type": "adjective"
+  },
+  {
+    "ru": "дым",
+    "en": "smoke",
+    "type": "noun"
+  },
+  {
+    "ru": "гореть",
+    "en": "to burn",
+    "type": "verb"
+  },
+  {
+    "ru": "плакать",
+    "en": "to cry",
+    "type": "verb"
+  },
+  {
+    "ru": "весьма",
+    "en": "very,highly,greatly",
+    "type": "adverb"
+  },
+  {
+    "ru": "факт",
+    "en": "fact",
+    "type": "noun"
+  },
+  {
+    "ru": "двигаться",
+    "en": "to move",
+    "type": "verb"
+  },
+  {
+    "ru": "рыба",
+    "en": "fish",
+    "type": "noun"
+  },
+  {
+    "ru": "добавить",
+    "en": "to add",
+    "type": "verb"
+  },
+  {
+    "ru": "удивиться",
+    "en": "to wonder,be surprised",
+    "type": "verb"
+  },
+  {
+    "ru": "бабушка",
+    "en": "grandmother",
+    "type": "noun"
+  },
+  {
+    "ru": "вино",
+    "en": "wine",
+    "type": "noun"
+  },
+  {
+    "ru": "ибо",
+    "en": "for",
+    "type": "conjunction"
+  },
+  {
+    "ru": "учитель",
+    "en": "teacher,instructor",
+    "type": "noun"
+  },
+  {
+    "ru": "действовать",
+    "en": "to do an action",
+    "type": "verb"
+  },
+  {
+    "ru": "осторожно",
+    "en": "carefully,cautiously",
+    "type": "adverb"
+  },
+  {
+    "ru": "круг",
+    "en": "circle",
+    "type": "noun"
+  },
+  {
+    "ru": "папа",
+    "en": "dad,daddy",
+    "type": "noun"
+  },
+  {
+    "ru": "правильно",
+    "en": "correctly,properly",
+    "type": "adverb"
+  },
+  {
+    "ru": "недавно",
+    "en": "recently,lately",
+    "type": "adverb"
+  },
+  {
+    "ru": "держаться",
+    "en": "to hold on",
+    "type": "verb"
+  },
+  {
+    "ru": "причем",
+    "en": "moreover,andwhat's more",
+    "type": "adverb"
+  },
+  {
+    "ru": "лететь",
+    "en": "to fly",
+    "type": "verb"
+  },
+  {
+    "ru": "носить",
+    "en": "to carry",
+    "type": "verb"
+  },
+  {
+    "ru": "повод",
+    "en": "occasion,reason,bridle",
+    "type": "noun"
+  },
+  {
+    "ru": "лагерь",
+    "en": "camp",
+    "type": "noun"
+  },
+  {
+    "ru": "птица",
+    "en": "bird",
+    "type": "noun"
+  },
+  {
+    "ru": "корабль",
+    "en": "ship",
+    "type": "noun"
+  },
+  {
+    "ru": "мнение",
+    "en": "opinion",
+    "type": "noun"
+  },
+  {
+    "ru": "ночной",
+    "en": "night",
+    "type": "adjective"
+  },
+  {
+    "ru": "здоровый",
+    "en": "healthy",
+    "type": "adjective"
+  },
+  {
+    "ru": "зима",
+    "en": "winter",
+    "type": "noun"
+  },
+  {
+    "ru": "сухой",
+    "en": "dry",
+    "type": "adjective"
+  },
+  {
+    "ru": "километр",
+    "en": "kilometre,kilometer",
+    "type": "noun"
+  },
+  {
+    "ru": "кровать",
+    "en": "bed",
+    "type": "noun"
+  },
+  {
+    "ru": "привыкнуть",
+    "en": "to get used to,to grow accustomed",
+    "type": "verb"
+  },
+  {
+    "ru": "прочее",
+    "en": "et cetera,other",
+    "type": "pronoun"
+  },
+  {
+    "ru": "свободный",
+    "en": "free",
+    "type": "adjective"
+  },
+  {
+    "ru": "лестница",
+    "en": "staircase",
+    "type": "noun"
+  },
+  {
+    "ru": "неужели",
+    "en": "really,surely",
+    "type": "particle"
+  },
+  {
+    "ru": "обязательно",
+    "en": "without fail,be sure",
+    "type": "adverb"
+  },
+  {
+    "ru": "вверх",
+    "en": "up,upwards",
+    "type": "adverb"
+  },
+  {
+    "ru": "детство",
+    "en": "childhood",
+    "type": "noun"
+  },
+  {
+    "ru": "остров",
+    "en": "island",
+    "type": "noun"
+  },
+  {
+    "ru": "статья",
+    "en": "article",
+    "type": "noun"
+  },
+  {
+    "ru": "позвонить",
+    "en": "to call,to telephone",
+    "type": "verb"
+  },
+  {
+    "ru": "столь",
+    "en": "so",
+    "type": "adverb"
+  },
+  {
+    "ru": "мешать",
+    "en": "to stir",
+    "type": "verb"
+  },
+  {
+    "ru": "водка",
+    "en": "vodka",
+    "type": "noun"
+  },
+  {
+    "ru": "темнота",
+    "en": "darkness",
+    "type": "noun"
+  },
+  {
+    "ru": "возникнуть",
+    "en": "to arise,spring up",
+    "type": "verb"
+  },
+  {
+    "ru": "способный",
+    "en": "capable of",
+    "type": "adjective"
+  },
+  {
+    "ru": "станция",
+    "en": "station",
+    "type": "noun"
+  },
+  {
+    "ru": "желать",
+    "en": "to wish",
+    "type": "verb"
+  },
+  {
+    "ru": "попробовать",
+    "en": "to try,test",
+    "type": "verb"
+  },
+  {
+    "ru": "получаться",
+    "en": "to come out",
+    "type": "verb"
+  },
+  {
+    "ru": "гражданин",
+    "en": "citizen",
+    "type": "noun"
+  },
+  {
+    "ru": "странно",
+    "en": "strangely",
+    "type": "adverb"
+  },
+  {
+    "ru": "вскоре",
+    "en": "soon,shortly",
+    "type": "adverb"
+  },
+  {
+    "ru": "интересный",
+    "en": "interesting",
+    "type": "adjective"
+  },
+  {
+    "ru": "команда",
+    "en": "team,command",
+    "type": "noun"
+  },
+  {
+    "ru": "заболевание",
+    "en": "disease,illness",
+    "type": "noun"
+  },
+  {
+    "ru": "живот",
+    "en": "stomach,belly",
+    "type": "noun"
+  },
+  {
+    "ru": "ставить",
+    "en": "to set in place",
+    "type": "verb"
+  },
+  {
+    "ru": "ради",
+    "en": "for thesake of",
+    "type": "preposition"
+  },
+  {
+    "ru": "тишина",
+    "en": "silence,stillness",
+    "type": "noun"
+  },
+  {
+    "ru": "понятно",
+    "en": "clearly,plainly",
+    "type": "adverb"
+  },
+  {
+    "ru": "фронт",
+    "en": "front",
+    "type": "noun"
+  },
+  {
+    "ru": "щека",
+    "en": "cheek",
+    "type": "noun"
+  },
+  {
+    "ru": "страшно",
+    "en": "terribly,awfully",
+    "type": "adverb"
+  },
+  {
+    "ru": "район",
+    "en": "area,region",
+    "type": "noun"
+  },
+  {
+    "ru": "наверно",
+    "en": "probably",
+    "type": "adverb"
+  },
+  {
+    "ru": "проводить",
+    "en": "to spend time",
+    "type": "verb"
+  },
+  {
+    "ru": "выражение",
+    "en": "expression",
+    "type": "noun"
+  },
+  {
+    "ru": "слегка",
+    "en": "slightly",
+    "type": "adverb"
+  },
+  {
+    "ru": "мешок",
+    "en": "bag,sack",
+    "type": "noun"
+  },
+  {
+    "ru": "обещать",
+    "en": "to promise",
+    "type": "verb"
+  },
+  {
+    "ru": "дорогой",
+    "en": "on the way",
+    "type": "adjective"
+  },
+  {
+    "ru": "судить",
+    "en": "to judge",
+    "type": "verb"
+  },
+  {
+    "ru": "большинство",
+    "en": "majority",
+    "type": "noun"
+  },
+  {
+    "ru": "собраться",
+    "en": "to gather,collect",
+    "type": "verb"
+  },
+  {
+    "ru": "управление",
+    "en": "operation,control",
+    "type": "noun"
+  },
+  {
+    "ru": "колоть",
+    "en": "to split",
+    "type": "verb"
+  },
+  {
+    "ru": "мокрый",
+    "en": "wet",
+    "type": "adjective"
+  },
+  {
+    "ru": "приказ",
+    "en": "order",
+    "type": "noun"
+  },
+  {
+    "ru": "прямой",
+    "en": "straight",
+    "type": "adjective"
+  },
+  {
+    "ru": "закричать",
+    "en": "to shout,cry out",
+    "type": "verb"
+  },
+  {
+    "ru": "кончиться",
+    "en": "to end",
+    "type": "verb"
+  },
+  {
+    "ru": "куст",
+    "en": "bush",
+    "type": "noun"
+  },
+  {
+    "ru": "стрелять",
+    "en": "to shoot",
+    "type": "verb"
+  },
+  {
+    "ru": "художник",
+    "en": "painter,artist",
+    "type": "noun"
+  },
+  {
+    "ru": "знак",
+    "en": "sign",
+    "type": "noun"
+  },
+  {
+    "ru": "завод",
+    "en": "factory",
+    "type": "noun"
+  },
+  {
+    "ru": "кулак",
+    "en": "fist",
+    "type": "noun"
+  },
+  {
+    "ru": "использовать",
+    "en": "to use",
+    "type": "verb"
+  },
+  {
+    "ru": "стакан",
+    "en": "glass",
+    "type": "noun"
+  },
+  {
+    "ru": "пахнуть",
+    "en": "to smell",
+    "type": "verb"
+  },
+  {
+    "ru": "отсюда",
+    "en": "from here",
+    "type": "adverb"
+  },
+  {
+    "ru": "рот",
+    "en": "mouth",
+    "type": "noun"
+  }
+]

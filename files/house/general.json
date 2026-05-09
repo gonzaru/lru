@@ -1,0 +1,107 @@
+[
+  {
+    "ru": "гостиная",
+    "en": "living room",
+    "type": "noun"
+  },
+  {
+    "ru": "диван",
+    "en": "sofa",
+    "type": "noun"
+  },
+  {
+    "ru": "кресло",
+    "en": "armchair",
+    "type": "noun"
+  },
+  {
+    "ru": "камин",
+    "en": "fireplace",
+    "type": "noun"
+  },
+  {
+    "ru": "полки",
+    "en": "shelves",
+    "type": "noun"
+  },
+  {
+    "ru": "спальня",
+    "en": "bedroom",
+    "type": "noun"
+  },
+  {
+    "ru": "кровать",
+    "en": "bed",
+    "type": "noun"
+  },
+  {
+    "ru": "тумбочка",
+    "en": "nightstand",
+    "type": "noun"
+  },
+  {
+    "ru": "шкаф",
+    "en": "cupboard",
+    "type": "noun"
+  },
+  {
+    "ru": "лампа",
+    "en": "lamp",
+    "type": "noun"
+  },
+  {
+    "ru": "кухня",
+    "en": "kitchen",
+    "type": "noun"
+  },
+  {
+    "ru": "холодильник",
+    "en": "fridge",
+    "type": "noun"
+  },
+  {
+    "ru": "плита",
+    "en": "plate",
+    "type": "noun"
+  },
+  {
+    "ru": "стул",
+    "en": "chair",
+    "type": "noun"
+  },
+  {
+    "ru": "стулья",
+    "en": "chairs",
+    "type": "noun"
+  },
+  {
+    "ru": "стол и стулья",
+    "en": "table and chairs",
+    "type": "noun"
+  },
+  {
+    "ru": "ванна",
+    "en": "bath",
+    "type": "noun"
+  },
+  {
+    "ru": "раковина",
+    "en": "sink",
+    "type": "noun"
+  },
+  {
+    "ru": "зеркало",
+    "en": "mirror",
+    "type": "noun"
+  },
+  {
+    "ru": "полотенце",
+    "en": "towel",
+    "type": "noun"
+  },
+  {
+    "ru": "унитаз",
+    "en": "toilet",
+    "type": "noun"
+  }
+]

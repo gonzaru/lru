@@ -1,0 +1,112 @@
+[
+  {
+    "ru": "яблоко",
+    "en": "apple",
+    "type": "noun"
+  },
+  {
+    "ru": "груша",
+    "en": "pear",
+    "type": "noun"
+  },
+  {
+    "ru": "мандарин",
+    "en": "mandarin,tangerine",
+    "type": "noun"
+  },
+  {
+    "ru": "aпельсин",
+    "en": "orange",
+    "type": "noun"
+  },
+  {
+    "ru": "виноград",
+    "en": "grapes",
+    "type": "noun"
+  },
+  {
+    "ru": "банан",
+    "en": "banana",
+    "type": "noun"
+  },
+  {
+    "ru": "персик",
+    "en": "peach",
+    "type": "noun"
+  },
+  {
+    "ru": "слива",
+    "en": "plum",
+    "type": "noun"
+  },
+  {
+    "ru": "клубника",
+    "en": "strawberry",
+    "type": "noun"
+  },
+  {
+    "ru": "арбуз",
+    "en": "watermelon",
+    "type": "noun"
+  },
+  {
+    "ru": "дыня",
+    "en": "melon",
+    "type": "noun"
+  },
+  {
+    "ru": "вишня",
+    "en": "cherry",
+    "type": "noun"
+  },
+  {
+    "ru": "лимон",
+    "en": "lemon",
+    "type": "noun"
+  },
+  {
+    "ru": "абрикос",
+    "en": "apricot",
+    "type": "noun"
+  },
+  {
+    "ru": "ананас",
+    "en": "pineapple",
+    "type": "noun"
+  },
+  {
+    "ru": "киви",
+    "en": "kiwi",
+    "type": "noun"
+  },
+  {
+    "ru": "малина",
+    "en": "raspberry",
+    "type": "noun"
+  },
+  {
+    "ru": "черника",
+    "en": "blueberry",
+    "type": "noun"
+  },
+  {
+    "ru": "грейпфрут",
+    "en": "grapefruit",
+    "type": "noun"
+  },
+  {
+    "ru": "кокос",
+    "en": "coconut",
+    "type": "noun"
+  },
+  {
+    "ru": "гранат",
+    "en": "pomegranate",
+    "type": "noun"
+  },
+  {
+    "ru": "инжир",
+    "en": "fig",
+    "type": "noun"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "ru": "футболка",
+    "en": "t-shirt",
+    "type": "noun"
+  },
+  {
+    "ru": "джинсы",
+    "en": "jeans",
+    "type": "noun"
+  },
+  {
+    "ru": "брюки",
+    "en": "pants",
+    "type": "noun"
+  },
+  {
+    "ru": "костюм",
+    "en": "costume,suit",
+    "type": "noun"
+  },
+  {
+    "ru": "рубашка",
+    "en": "shirt",
+    "type": "noun"
+  },
+  {
+    "ru": "юбка",
+    "en": "skirt",
+    "type": "noun"
+  },
+  {
+    "ru": "платье",
+    "en": "dress",
+    "type": "noun"
+  },
+  {
+    "ru": "куртка",
+    "en": "jacket",
+    "type": "noun"
+  },
+  {
+    "ru": "шорты",
+    "en": "shorts",
+    "type": "noun"
+  },
+  {
+    "ru": "свитер",
+    "en": "sweater,jersey",
+    "type": "noun"
+  },
+  {
+    "ru": "шапка",
+    "en": "hat",
+    "type": "noun"
+  },
+  {
+    "ru": "носки",
+    "en": "socks",
+    "type": "noun"
+  }
+]

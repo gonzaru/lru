@@ -1,0 +1,62 @@
+[
+  {
+    "ru": "чёрный",
+    "en": "black",
+    "type": "adjective"
+  },
+  {
+    "ru": "белый",
+    "en": "white",
+    "type": "adjective"
+  },
+  {
+    "ru": "красный",
+    "en": "red",
+    "type": "adjective"
+  },
+  {
+    "ru": "синий",
+    "en": "blue",
+    "type": "adjective"
+  },
+  {
+    "ru": "зелёный",
+    "en": "green",
+    "type": "adjective"
+  },
+  {
+    "ru": "оранжевый",
+    "en": "orange",
+    "type": "adjective"
+  },
+  {
+    "ru": "жёлтый",
+    "en": "yellow",
+    "type": "adjective"
+  },
+  {
+    "ru": "голубой",
+    "en": "sky-blue",
+    "type": "adjective"
+  },
+  {
+    "ru": "коричневый",
+    "en": "brown,coffee",
+    "type": "adjective"
+  },
+  {
+    "ru": "фиолетовый",
+    "en": "violet",
+    "type": "adjective"
+  },
+  {
+    "ru": "розовый",
+    "en": "pink",
+    "type": "adjective"
+  },
+  {
+    "ru": "серый",
+    "en": "gray",
+    "type": "adjective"
+  }
+]

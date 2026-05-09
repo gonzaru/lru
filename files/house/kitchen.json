@@ -1,0 +1,102 @@
+[
+  {
+    "ru": "холодильник",
+    "en": "fridge",
+    "type": "noun"
+  },
+  {
+    "ru": "морозильник",
+    "en": "freezer",
+    "type": "noun"
+  },
+  {
+    "ru": "духовка",
+    "en": "oven",
+    "type": "noun"
+  },
+  {
+    "ru": "нож",
+    "en": "knife",
+    "type": "noun"
+  },
+  {
+    "ru": "вилка",
+    "en": "fork",
+    "type": "noun"
+  },
+  {
+    "ru": "ложка",
+    "en": "spoon",
+    "type": "noun"
+  },
+  {
+    "ru": "деревянная ложка",
+    "en": "wooden spoon",
+    "type": "noun"
+  },
+  {
+    "ru": "чайная ложка",
+    "en": "teaspoon",
+    "type": "noun"
+  },
+  {
+    "ru": "суповая ложка",
+    "en": "soup spoon",
+    "type": "noun"
+  },
+  {
+    "ru": "тарелка",
+    "en": "plate",
+    "type": "noun"
+  },
+  {
+    "ru": "миска",
+    "en": "bowl",
+    "type": "noun"
+  },
+  {
+    "ru": "тарелка для риса",
+    "en": "rice plate",
+    "type": "noun"
+  },
+  {
+    "ru": "миска для риса",
+    "en": "rice bowl",
+    "type": "noun"
+  },
+  {
+    "ru": "салатница",
+    "en": "salad bowl",
+    "type": "noun"
+  },
+  {
+    "ru": "сахарница",
+    "en": "sugar bowl",
+    "type": "noun"
+  },
+  {
+    "ru": "миска для фруктов",
+    "en": "bowl for fuit",
+    "type": "noun"
+  },
+  {
+    "ru": "стакан",
+    "en": "glass",
+    "type": "noun"
+  },
+  {
+    "ru": "большое плоское бюдо",
+    "en": "platter,salver",
+    "type": "noun"
+  },
+  {
+    "ru": "сковорода",
+    "en": "frying pan",
+    "type": "noun"
+  },
+  {
+    "ru": "кастрюля",
+    "en": "saucepan",
+    "type": "noun"
+  }
+]
